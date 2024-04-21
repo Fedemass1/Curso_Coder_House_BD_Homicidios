@@ -1,0 +1,29 @@
+ID_ Relationship,Relationship
+REL_0001,Stranger
+REL_0002,Friend
+REL_0003,Unknown
+REL_0004,Daughter
+REL_0005,Wife
+REL_0006,Acquaintance
+REL_0007,Brother
+REL_0008,Girlfriend
+REL_0009,Father
+REL_0010,Boyfriend
+REL_0011,Neighbor
+REL_0012,Family
+REL_0013,Mother
+REL_0014,Husband
+REL_0015,Boyfriend/Girlfriend
+REL_0016,Stepdaughter
+REL_0017,Sister
+REL_0018,In-Law
+REL_0019,Employee
+REL_0020,Stepfather
+REL_0021,Common-Law Wife
+REL_0022,Son
+REL_0023,Common-Law Husband
+REL_0024,Ex-Wife
+REL_0025,Employer
+REL_0026,Stepson
+REL_0027,Ex-Husband
+REL_0028,Stepmother

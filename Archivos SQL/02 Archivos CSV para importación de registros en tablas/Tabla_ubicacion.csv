@@ -1,0 +1,2573 @@
+ID_Location,City,State
+LOC_000001,Anchorage,Alaska
+LOC_000002,Fairbanks North Star,Alaska
+LOC_000003,Juneau,Alaska
+LOC_000004,Wrangell-Petersburg,Alaska
+LOC_000005,Bethel,Alaska
+LOC_000006,North Slope,Alaska
+LOC_000007,Dillingham,Alaska
+LOC_000008,Aleutians West,Alaska
+LOC_000009,Jefferson,Alabama
+LOC_000010,Mobile,Alabama
+LOC_000011,Montgomery,Alabama
+LOC_000012,Autauga,Alabama
+LOC_000013,Baldwin,Alabama
+LOC_000014,Blount,Alabama
+LOC_000015,Butler,Alabama
+LOC_000016,Calhoun,Alabama
+LOC_000017,Chambers,Alabama
+LOC_000018,Chilton,Alabama
+LOC_000019,Clarke,Alabama
+LOC_000020,Colbert,Alabama
+LOC_000021,Conecuh,Alabama
+LOC_000022,Coosa,Alabama
+LOC_000023,Covington,Alabama
+LOC_000024,Cullman,Alabama
+LOC_000025,Dallas,Alabama
+LOC_000026,De Kalb,Alabama
+LOC_000027,Elmore,Alabama
+LOC_000028,Escambia,Alabama
+LOC_000029,Etowah,Alabama
+LOC_000030,Franklin,Alabama
+LOC_000031,Greene,Alabama
+LOC_000032,Hale,Alabama
+LOC_000033,Houston,Alabama
+LOC_000034,Jackson,Alabama
+LOC_000035,Lawrence,Alabama
+LOC_000036,Lee,Alabama
+LOC_000037,Limestone,Alabama
+LOC_000038,Lowndes,Alabama
+LOC_000039,Macon,Alabama
+LOC_000040,Madison,Alabama
+LOC_000041,Marshall,Alabama
+LOC_000042,Morgan,Alabama
+LOC_000043,Perry,Alabama
+LOC_000044,Pickens,Alabama
+LOC_000045,Randolph,Alabama
+LOC_000046,Russell,Alabama
+LOC_000047,St. Clair,Alabama
+LOC_000048,Shelby,Alabama
+LOC_000049,Sumter,Alabama
+LOC_000050,Talladega,Alabama
+LOC_000051,Tuscaloosa,Alabama
+LOC_000052,Walker,Alabama
+LOC_000053,Wilcox,Alabama
+LOC_000054,Arkansas,Arkansas
+LOC_000055,Baxter,Arkansas
+LOC_000056,Benton,Arkansas
+LOC_000057,Boone,Arkansas
+LOC_000058,Bradley,Arkansas
+LOC_000059,Clark,Arkansas
+LOC_000060,Cleburne,Arkansas
+LOC_000061,Craighead,Arkansas
+LOC_000062,Crawford,Arkansas
+LOC_000063,Crittenden,Arkansas
+LOC_000064,Dallas,Arkansas
+LOC_000065,Faulkner,Arkansas
+LOC_000066,Franklin,Arkansas
+LOC_000067,Garland,Arkansas
+LOC_000068,Hempstead,Arkansas
+LOC_000069,Howard,Arkansas
+LOC_000070,Independence,Arkansas
+LOC_000071,Jackson,Arkansas
+LOC_000072,Jefferson,Arkansas
+LOC_000073,Lee,Arkansas
+LOC_000074,Lincoln,Arkansas
+LOC_000075,Lonoke,Arkansas
+LOC_000076,Madison,Arkansas
+LOC_000077,Miller,Arkansas
+LOC_000078,Mississippi,Arkansas
+LOC_000079,Ouachita,Arkansas
+LOC_000080,Phillips,Arkansas
+LOC_000081,Pike,Arkansas
+LOC_000082,Poinsett,Arkansas
+LOC_000083,Polk,Arkansas
+LOC_000084,Pope,Arkansas
+LOC_000085,Pulaski,Arkansas
+LOC_000086,St. Francis,Arkansas
+LOC_000087,Saline,Arkansas
+LOC_000088,Sebastian,Arkansas
+LOC_000089,Sevier,Arkansas
+LOC_000090,Sharp,Arkansas
+LOC_000091,Union,Arkansas
+LOC_000092,Washington,Arkansas
+LOC_000093,White,Arkansas
+LOC_000094,Woodruff,Arkansas
+LOC_000095,Cochise,Arizona
+LOC_000096,Coconino,Arizona
+LOC_000097,Gila,Arizona
+LOC_000098,Graham,Arizona
+LOC_000099,Maricopa,Arizona
+LOC_000100,Mohave,Arizona
+LOC_000101,Navajo,Arizona
+LOC_000102,Pima,Arizona
+LOC_000103,Pinal,Arizona
+LOC_000104,Yavapai,Arizona
+LOC_000105,Yuma,Arizona
+LOC_000106,Alameda,California
+LOC_000107,Amador,California
+LOC_000108,Butte,California
+LOC_000109,Calaveras,California
+LOC_000110,Contra Costa,California
+LOC_000111,El Dorado,California
+LOC_000112,Fresno,California
+LOC_000113,Glenn,California
+LOC_000114,Humboldt,California
+LOC_000115,Imperial,California
+LOC_000116,Kern,California
+LOC_000117,Kings,California
+LOC_000118,Lake,California
+LOC_000119,Lassen,California
+LOC_000120,Los Angeles,California
+LOC_000121,Madera,California
+LOC_000122,Marin,California
+LOC_000123,Mariposa,California
+LOC_000124,Mendocino,California
+LOC_000125,Merced,California
+LOC_000126,Monterey,California
+LOC_000127,Napa,California
+LOC_000128,Nevada,California
+LOC_000129,Orange,California
+LOC_000130,Placer,California
+LOC_000131,Riverside,California
+LOC_000132,Sacramento,California
+LOC_000133,San Benito,California
+LOC_000134,San Bernardino,California
+LOC_000135,San Diego,California
+LOC_000136,San Francisco,California
+LOC_000137,San Joaquin,California
+LOC_000138,San Luis Obispo,California
+LOC_000139,San Mateo,California
+LOC_000140,Santa Barbara,California
+LOC_000141,Santa Clara,California
+LOC_000142,Santa Cruz,California
+LOC_000143,Shasta,California
+LOC_000144,Solano,California
+LOC_000145,Sonoma,California
+LOC_000146,Stanislaus,California
+LOC_000147,Sutter,California
+LOC_000148,Tehama,California
+LOC_000149,Tulare,California
+LOC_000150,Ventura,California
+LOC_000151,Yolo,California
+LOC_000152,Yuba,California
+LOC_000153,Adams,Colorado
+LOC_000154,Arapahoe,Colorado
+LOC_000155,Boulder,Colorado
+LOC_000156,Chaffee,Colorado
+LOC_000157,Delta,Colorado
+LOC_000158,Douglas,Colorado
+LOC_000159,El Paso,Colorado
+LOC_000160,Fremont,Colorado
+LOC_000161,Garfield,Colorado
+LOC_000162,Grand,Colorado
+LOC_000163,Jefferson,Colorado
+LOC_000164,La Plata,Colorado
+LOC_000165,Larimer,Colorado
+LOC_000166,Las Animas,Colorado
+LOC_000167,Mesa,Colorado
+LOC_000168,Moffat,Colorado
+LOC_000169,Montrose,Colorado
+LOC_000170,Morgan,Colorado
+LOC_000171,Otero,Colorado
+LOC_000172,Park,Colorado
+LOC_000173,Pueblo,Colorado
+LOC_000174,Weld,Colorado
+LOC_000175,Denver,Colorado
+LOC_000176,Hartford,Connecticut
+LOC_000177,New Haven,Connecticut
+LOC_000178,Fairfield,Connecticut
+LOC_000179,Middlesex,Connecticut
+LOC_000180,Litchfield,Connecticut
+LOC_000181,New London,Connecticut
+LOC_000182,District of Columbia,District of Columbia
+LOC_000183,Kent,Delaware
+LOC_000184,New Castle,Delaware
+LOC_000185,Sussex,Delaware
+LOC_000186,Alachua,Florida
+LOC_000187,Baker,Florida
+LOC_000188,Bay,Florida
+LOC_000189,Brevard,Florida
+LOC_000190,Broward,Florida
+LOC_000191,Charlotte,Florida
+LOC_000192,Citrus,Florida
+LOC_000193,Clay,Florida
+LOC_000194,Collier,Florida
+LOC_000195,Columbia,Florida
+LOC_000196,Dade,Florida
+LOC_000197,Miami-Dade,Florida
+LOC_000198,De Soto,Florida
+LOC_000199,Dixie,Florida
+LOC_000200,Duval,Florida
+LOC_000201,Escambia,Florida
+LOC_000202,Flagler,Florida
+LOC_000203,Franklin,Florida
+LOC_000204,Gadsden,Florida
+LOC_000205,Gilchrist,Florida
+LOC_000206,Glades,Florida
+LOC_000207,Hendry,Florida
+LOC_000208,Hernando,Florida
+LOC_000209,Highlands,Florida
+LOC_000210,Hillsborough,Florida
+LOC_000211,Indian River,Florida
+LOC_000212,Jackson,Florida
+LOC_000213,Lafayette,Florida
+LOC_000214,Lake,Florida
+LOC_000215,Lee,Florida
+LOC_000216,Leon,Florida
+LOC_000217,Madison,Florida
+LOC_000218,Manatee,Florida
+LOC_000219,Marion,Florida
+LOC_000220,Martin,Florida
+LOC_000221,Monroe,Florida
+LOC_000222,Nassau,Florida
+LOC_000223,Okaloosa,Florida
+LOC_000224,Okeechobee,Florida
+LOC_000225,Orange,Florida
+LOC_000226,Osceola,Florida
+LOC_000227,Palm Beach,Florida
+LOC_000228,Pasco,Florida
+LOC_000229,Pinellas,Florida
+LOC_000230,Polk,Florida
+LOC_000231,Putnam,Florida
+LOC_000232,St. Johns,Florida
+LOC_000233,St. Lucie,Florida
+LOC_000234,Santa Rosa,Florida
+LOC_000235,Sarasota,Florida
+LOC_000236,Seminole,Florida
+LOC_000237,Sumter,Florida
+LOC_000238,Taylor,Florida
+LOC_000239,Union,Florida
+LOC_000240,Volusia,Florida
+LOC_000241,Walton,Florida
+LOC_000242,Washington,Florida
+LOC_000243,Baldwin,Georgia
+LOC_000244,Barrow,Georgia
+LOC_000245,Bartow,Georgia
+LOC_000246,Ben Hill,Georgia
+LOC_000247,Berrien,Georgia
+LOC_000248,Bibb,Georgia
+LOC_000249,Brooks,Georgia
+LOC_000250,Bulloch,Georgia
+LOC_000251,Burke,Georgia
+LOC_000252,Camden,Georgia
+LOC_000253,Candler,Georgia
+LOC_000254,Carroll,Georgia
+LOC_000255,Catoosa,Georgia
+LOC_000256,Chatham,Georgia
+LOC_000257,Clarke,Georgia
+LOC_000258,Clayton,Georgia
+LOC_000259,Cobb,Georgia
+LOC_000260,Coffee,Georgia
+LOC_000261,Colquitt,Georgia
+LOC_000262,Coweta,Georgia
+LOC_000263,Crisp,Georgia
+LOC_000264,De Kalb,Georgia
+LOC_000265,Dodge,Georgia
+LOC_000266,Dougherty,Georgia
+LOC_000267,Douglas,Georgia
+LOC_000268,Early,Georgia
+LOC_000269,Effingham,Georgia
+LOC_000270,Fannin,Georgia
+LOC_000271,Fayette,Georgia
+LOC_000272,Floyd,Georgia
+LOC_000273,Forsyth,Georgia
+LOC_000274,Franklin,Georgia
+LOC_000275,Fulton,Georgia
+LOC_000276,Gilmer,Georgia
+LOC_000277,Glynn,Georgia
+LOC_000278,Gordon,Georgia
+LOC_000279,Grady,Georgia
+LOC_000280,Gwinnett,Georgia
+LOC_000281,Hall,Georgia
+LOC_000282,Henry,Georgia
+LOC_000283,Houston,Georgia
+LOC_000284,Irwin,Georgia
+LOC_000285,Jeff Davis,Georgia
+LOC_000286,Jefferson,Georgia
+LOC_000287,Laurens,Georgia
+LOC_000288,Lee,Georgia
+LOC_000289,Liberty,Georgia
+LOC_000290,Lowndes,Georgia
+LOC_000291,Lumpkin,Georgia
+LOC_000292,McDuffie,Georgia
+LOC_000293,Monroe,Georgia
+LOC_000294,Muscogee,Georgia
+LOC_000295,Newton,Georgia
+LOC_000296,Oglethorpe,Georgia
+LOC_000297,Paulding,Georgia
+LOC_000298,Pike,Georgia
+LOC_000299,Rabun,Georgia
+LOC_000300,Richmond,Georgia
+LOC_000301,Rockdale,Georgia
+LOC_000302,Seminole,Georgia
+LOC_000303,Spalding,Georgia
+LOC_000304,Stephens,Georgia
+LOC_000305,Sumter,Georgia
+LOC_000306,Talbot,Georgia
+LOC_000307,Tattnall,Georgia
+LOC_000308,Taylor,Georgia
+LOC_000309,Telfair,Georgia
+LOC_000310,Terrell,Georgia
+LOC_000311,Thomas,Georgia
+LOC_000312,Toombs,Georgia
+LOC_000313,Troup,Georgia
+LOC_000314,Upson,Georgia
+LOC_000315,Walton,Georgia
+LOC_000316,Ware,Georgia
+LOC_000317,Whitfield,Georgia
+LOC_000318,Wilkinson,Georgia
+LOC_000319,Hawaii,Hawaii
+LOC_000320,Honolulu,Hawaii
+LOC_000321,Black Hawk,Iowa
+LOC_000322,Bremer,Iowa
+LOC_000323,Buena Vista,Iowa
+LOC_000324,Butler,Iowa
+LOC_000325,Calhoun,Iowa
+LOC_000326,Cerro Gordo,Iowa
+LOC_000327,Chickasaw,Iowa
+LOC_000328,Clayton,Iowa
+LOC_000329,Clinton,Iowa
+LOC_000330,Des Moines,Iowa
+LOC_000331,Emmet,Iowa
+LOC_000332,Grundy,Iowa
+LOC_000333,Linn,Iowa
+LOC_000334,Louisa,Iowa
+LOC_000335,Montgomery,Iowa
+LOC_000336,Muscatine,Iowa
+LOC_000337,Plymouth,Iowa
+LOC_000338,Polk,Iowa
+LOC_000339,Pottawattamie,Iowa
+LOC_000340,Scott,Iowa
+LOC_000341,Tama,Iowa
+LOC_000342,Van Buren,Iowa
+LOC_000343,Warren,Iowa
+LOC_000344,Woodbury,Iowa
+LOC_000345,Ada,Idaho
+LOC_000346,Bannock,Idaho
+LOC_000347,Benewah,Idaho
+LOC_000348,Boise,Idaho
+LOC_000349,Bonneville,Idaho
+LOC_000350,Canyon,Idaho
+LOC_000351,Cassia,Idaho
+LOC_000352,Clearwater,Idaho
+LOC_000353,Franklin,Idaho
+LOC_000354,Gooding,Idaho
+LOC_000355,Idaho,Idaho
+LOC_000356,Kootenai,Idaho
+LOC_000357,Lemhi,Idaho
+LOC_000358,Minidoka,Idaho
+LOC_000359,Nez Perce,Idaho
+LOC_000360,Payette,Idaho
+LOC_000361,Twin Falls,Idaho
+LOC_000362,Washington,Idaho
+LOC_000363,Repressed,Idaho
+LOC_000364,Winnebago,Illinois
+LOC_000365,Cook,Illinois
+LOC_000366,Allen,Indiana
+LOC_000367,Bartholomew,Indiana
+LOC_000368,Delaware,Indiana
+LOC_000369,Dubois,Indiana
+LOC_000370,Elkhart,Indiana
+LOC_000371,Floyd,Indiana
+LOC_000372,Grant,Indiana
+LOC_000373,Hamilton,Indiana
+LOC_000374,Howard,Indiana
+LOC_000375,Jefferson,Indiana
+LOC_000376,Johnson,Indiana
+LOC_000377,Kosciusko,Indiana
+LOC_000378,Lake,Indiana
+LOC_000379,La Porte,Indiana
+LOC_000380,Lawrence,Indiana
+LOC_000381,Madison,Indiana
+LOC_000382,Marion,Indiana
+LOC_000383,Monroe,Indiana
+LOC_000384,Noble,Indiana
+LOC_000385,Porter,Indiana
+LOC_000386,St. Joseph,Indiana
+LOC_000387,Tippecanoe,Indiana
+LOC_000388,Vanderburgh,Indiana
+LOC_000389,Vigo,Indiana
+LOC_000390,Wabash,Indiana
+LOC_000391,Wayne,Indiana
+LOC_000392,Decatur,Indiana
+LOC_000393,Franklin,Indiana
+LOC_000394,Greene,Indiana
+LOC_000395,Henry,Indiana
+LOC_000396,Jackson,Indiana
+LOC_000397,Jennings,Indiana
+LOC_000398,Orange,Indiana
+LOC_000399,Owen,Indiana
+LOC_000400,Perry,Indiana
+LOC_000401,Pike,Indiana
+LOC_000402,Posey,Indiana
+LOC_000403,Pulaski,Indiana
+LOC_000404,Scott,Indiana
+LOC_000405,Washington,Indiana
+LOC_000406,White,Indiana
+LOC_000407,Allen,Kansas
+LOC_000408,Atchison,Kansas
+LOC_000409,Butler,Kansas
+LOC_000410,Cherokee,Kansas
+LOC_000411,Clay,Kansas
+LOC_000412,Crawford,Kansas
+LOC_000413,Douglas,Kansas
+LOC_000414,Finney,Kansas
+LOC_000415,Ford,Kansas
+LOC_000416,Franklin,Kansas
+LOC_000417,Geary,Kansas
+LOC_000418,Johnson,Kansas
+LOC_000419,Kiowa,Kansas
+LOC_000420,Leavenworth,Kansas
+LOC_000421,Lyon,Kansas
+LOC_000422,Miami,Kansas
+LOC_000423,Montgomery,Kansas
+LOC_000424,Nemaha,Kansas
+LOC_000425,Osage,Kansas
+LOC_000426,Pottawatomie,Kansas
+LOC_000427,Reno,Kansas
+LOC_000428,Rice,Kansas
+LOC_000429,Saline,Kansas
+LOC_000430,Sedgwick,Kansas
+LOC_000431,Shawnee,Kansas
+LOC_000432,Smith,Kansas
+LOC_000433,Stanton,Kansas
+LOC_000434,Wyandotte,Kansas
+LOC_000435,Boyd,Kentucky
+LOC_000436,Caldwell,Kentucky
+LOC_000437,Campbell,Kentucky
+LOC_000438,Christian,Kentucky
+LOC_000439,Daviess,Kentucky
+LOC_000440,Fayette,Kentucky
+LOC_000441,Franklin,Kentucky
+LOC_000442,Fulton,Kentucky
+LOC_000443,Henderson,Kentucky
+LOC_000444,Jefferson,Kentucky
+LOC_000445,Jessamine,Kentucky
+LOC_000446,Kenton,Kentucky
+LOC_000447,Letcher,Kentucky
+LOC_000448,Logan,Kentucky
+LOC_000449,McCracken,Kentucky
+LOC_000450,Madison,Kentucky
+LOC_000451,Marshall,Kentucky
+LOC_000452,Mercer,Kentucky
+LOC_000453,Oldham,Kentucky
+LOC_000454,Pulaski,Kentucky
+LOC_000455,Simpson,Kentucky
+LOC_000456,Warren,Kentucky
+LOC_000457,Acadia,Louisiana
+LOC_000458,Ascension,Louisiana
+LOC_000459,Assumption,Louisiana
+LOC_000460,Bienville,Louisiana
+LOC_000461,Bossier,Louisiana
+LOC_000462,Caddo,Louisiana
+LOC_000463,Calcasieu,Louisiana
+LOC_000464,Concordia,Louisiana
+LOC_000465,De Soto,Louisiana
+LOC_000466,East Baton Rouge,Louisiana
+LOC_000467,Evangeline,Louisiana
+LOC_000468,Iberville,Louisiana
+LOC_000469,Jefferson,Louisiana
+LOC_000470,Jefferson Davis,Louisiana
+LOC_000471,Lafayette,Louisiana
+LOC_000472,Lafourche,Louisiana
+LOC_000473,Lincoln,Louisiana
+LOC_000474,Livingston,Louisiana
+LOC_000475,Madison,Louisiana
+LOC_000476,Morehouse,Louisiana
+LOC_000477,Orleans,Louisiana
+LOC_000478,Ouachita,Louisiana
+LOC_000479,Plaquemines,Louisiana
+LOC_000480,Pointe Coupee,Louisiana
+LOC_000481,Rapides,Louisiana
+LOC_000482,Red River,Louisiana
+LOC_000483,Richland,Louisiana
+LOC_000484,St. Charles,Louisiana
+LOC_000485,St. James,Louisiana
+LOC_000486,St. John the Baptist,Louisiana
+LOC_000487,St. Landry,Louisiana
+LOC_000488,St. Mary,Louisiana
+LOC_000489,St. Tammany,Louisiana
+LOC_000490,Tangipahoa,Louisiana
+LOC_000491,Terrebonne,Louisiana
+LOC_000492,Vernon,Louisiana
+LOC_000493,Washington,Louisiana
+LOC_000494,Webster,Louisiana
+LOC_000495,West Baton Rouge,Louisiana
+LOC_000496,West Feliciana,Louisiana
+LOC_000497,Barnstable,Massachusetts
+LOC_000498,Berkshire,Massachusetts
+LOC_000499,Bristol,Massachusetts
+LOC_000500,Essex,Massachusetts
+LOC_000501,Hampden,Massachusetts
+LOC_000502,Middlesex,Massachusetts
+LOC_000503,Norfolk,Massachusetts
+LOC_000504,Plymouth,Massachusetts
+LOC_000505,Suffolk,Massachusetts
+LOC_000506,Worcester,Massachusetts
+LOC_000507,Allegany,Maryland
+LOC_000508,Anne Arundel,Maryland
+LOC_000509,Baltimore,Maryland
+LOC_000510,Carroll,Maryland
+LOC_000511,Cecil,Maryland
+LOC_000512,Charles,Maryland
+LOC_000513,Frederick,Maryland
+LOC_000514,Garrett,Maryland
+LOC_000515,Harford,Maryland
+LOC_000516,Howard,Maryland
+LOC_000517,Montgomery,Maryland
+LOC_000518,Prince George's,Maryland
+LOC_000519,St. Mary's,Maryland
+LOC_000520,Washington,Maryland
+LOC_000521,Wicomico,Maryland
+LOC_000522,Worcester,Maryland
+LOC_000523,Calvert,Maryland
+LOC_000524,Dorchester,Maryland
+LOC_000525,Somerset,Maryland
+LOC_000526,Baltimore city,Maryland
+LOC_000527,Androscoggin,Maine
+LOC_000528,Cumberland,Maine
+LOC_000529,Hancock,Maine
+LOC_000530,Kennebec,Maine
+LOC_000531,Oxford,Maine
+LOC_000532,Penobscot,Maine
+LOC_000533,Piscataquis,Maine
+LOC_000534,Somerset,Maine
+LOC_000535,Waldo,Maine
+LOC_000536,Alcona,Michigan
+LOC_000537,Alger,Michigan
+LOC_000538,Alpena,Michigan
+LOC_000539,Antrim,Michigan
+LOC_000540,Bay,Michigan
+LOC_000541,Benzie,Michigan
+LOC_000542,Berrien,Michigan
+LOC_000543,Branch,Michigan
+LOC_000544,Calhoun,Michigan
+LOC_000545,Cass,Michigan
+LOC_000546,Charlevoix,Michigan
+LOC_000547,Clinton,Michigan
+LOC_000548,Genesee,Michigan
+LOC_000549,Gratiot,Michigan
+LOC_000550,Hillsdale,Michigan
+LOC_000551,Huron,Michigan
+LOC_000552,Ingham,Michigan
+LOC_000553,Ionia,Michigan
+LOC_000554,Jackson,Michigan
+LOC_000555,Kalamazoo,Michigan
+LOC_000556,Kent,Michigan
+LOC_000557,Lake,Michigan
+LOC_000558,Lapeer,Michigan
+LOC_000559,Lenawee,Michigan
+LOC_000560,Macomb,Michigan
+LOC_000561,Manistee,Michigan
+LOC_000562,Marquette,Michigan
+LOC_000563,Mason,Michigan
+LOC_000564,Monroe,Michigan
+LOC_000565,Montcalm,Michigan
+LOC_000566,Muskegon,Michigan
+LOC_000567,Newaygo,Michigan
+LOC_000568,Oakland,Michigan
+LOC_000569,Osceola,Michigan
+LOC_000570,Ottawa,Michigan
+LOC_000571,Roscommon,Michigan
+LOC_000572,Saginaw,Michigan
+LOC_000573,St. Clair,Michigan
+LOC_000574,Shiawassee,Michigan
+LOC_000575,Van Buren,Michigan
+LOC_000576,Washtenaw,Michigan
+LOC_000577,Wayne,Michigan
+LOC_000578,Wexford,Michigan
+LOC_000579,Aitkin,Minnesota
+LOC_000580,Anoka,Minnesota
+LOC_000581,Carlton,Minnesota
+LOC_000582,Carver,Minnesota
+LOC_000583,Chisago,Minnesota
+LOC_000584,Dakota,Minnesota
+LOC_000585,Hennepin,Minnesota
+LOC_000586,Isanti,Minnesota
+LOC_000587,Itasca,Minnesota
+LOC_000588,Meeker,Minnesota
+LOC_000589,Olmsted,Minnesota
+LOC_000590,Otter Tail,Minnesota
+LOC_000591,Ramsey,Minnesota
+LOC_000592,Redwood,Minnesota
+LOC_000593,Renville,Minnesota
+LOC_000594,St. Louis,Minnesota
+LOC_000595,Sherburne,Minnesota
+LOC_000596,Stearns,Minnesota
+LOC_000597,Stevens,Minnesota
+LOC_000598,Todd,Minnesota
+LOC_000599,Wadena,Minnesota
+LOC_000600,Washington,Minnesota
+LOC_000601,Wilkin,Minnesota
+LOC_000602,Winona,Minnesota
+LOC_000603,Wright,Minnesota
+LOC_000604,Adair,Missouri
+LOC_000605,Andrew,Missouri
+LOC_000606,Barry,Missouri
+LOC_000607,Boone,Missouri
+LOC_000608,Butler,Missouri
+LOC_000609,Callaway,Missouri
+LOC_000610,Camden,Missouri
+LOC_000611,Cape Girardeau,Missouri
+LOC_000612,Christian,Missouri
+LOC_000613,Clay,Missouri
+LOC_000614,Cole,Missouri
+LOC_000615,Cooper,Missouri
+LOC_000616,Dallas,Missouri
+LOC_000617,Daviess,Missouri
+LOC_000618,Dent,Missouri
+LOC_000619,Dunklin,Missouri
+LOC_000620,Franklin,Missouri
+LOC_000621,Greene,Missouri
+LOC_000622,Grundy,Missouri
+LOC_000623,Henry,Missouri
+LOC_000624,Howard,Missouri
+LOC_000625,Howell,Missouri
+LOC_000626,Jackson,Missouri
+LOC_000627,Jasper,Missouri
+LOC_000628,Jefferson,Missouri
+LOC_000629,Johnson,Missouri
+LOC_000630,Laclede,Missouri
+LOC_000631,Lawrence,Missouri
+LOC_000632,Lincoln,Missouri
+LOC_000633,Livingston,Missouri
+LOC_000634,Mississippi,Missouri
+LOC_000635,Montgomery,Missouri
+LOC_000636,New Madrid,Missouri
+LOC_000637,Newton,Missouri
+LOC_000638,Oregon,Missouri
+LOC_000639,Pemiscot,Missouri
+LOC_000640,Perry,Missouri
+LOC_000641,Phelps,Missouri
+LOC_000642,Pike,Missouri
+LOC_000643,Pulaski,Missouri
+LOC_000644,Randolph,Missouri
+LOC_000645,Ripley,Missouri
+LOC_000646,St. Charles,Missouri
+LOC_000647,St. Louis,Missouri
+LOC_000648,Ste. Genevieve,Missouri
+LOC_000649,Saline,Missouri
+LOC_000650,Schuyler,Missouri
+LOC_000651,Scott,Missouri
+LOC_000652,Stoddard,Missouri
+LOC_000653,Stone,Missouri
+LOC_000654,Taney,Missouri
+LOC_000655,Texas,Missouri
+LOC_000656,Warren,Missouri
+LOC_000657,Washington,Missouri
+LOC_000658,St. Louis city,Missouri
+LOC_000659,Adams,Mississippi
+LOC_000660,Alcorn,Mississippi
+LOC_000661,Attala,Mississippi
+LOC_000662,Bolivar,Mississippi
+LOC_000663,Claiborne,Mississippi
+LOC_000664,Coahoma,Mississippi
+LOC_000665,Covington,Mississippi
+LOC_000666,DeSoto,Mississippi
+LOC_000667,Forrest,Mississippi
+LOC_000668,George,Mississippi
+LOC_000669,Grenada,Mississippi
+LOC_000670,Harrison,Mississippi
+LOC_000671,Hinds,Mississippi
+LOC_000672,Holmes,Mississippi
+LOC_000673,Jackson,Mississippi
+LOC_000674,Jasper,Mississippi
+LOC_000675,Jefferson,Mississippi
+LOC_000676,Jones,Mississippi
+LOC_000677,Lafayette,Mississippi
+LOC_000678,Lamar,Mississippi
+LOC_000679,Lauderdale,Mississippi
+LOC_000680,Lee,Mississippi
+LOC_000681,Leflore,Mississippi
+LOC_000682,Lincoln,Mississippi
+LOC_000683,Lowndes,Mississippi
+LOC_000684,Madison,Mississippi
+LOC_000685,Marion,Mississippi
+LOC_000686,Marshall,Mississippi
+LOC_000687,Monroe,Mississippi
+LOC_000688,Newton,Mississippi
+LOC_000689,Panola,Mississippi
+LOC_000690,Pearl River,Mississippi
+LOC_000691,Rankin,Mississippi
+LOC_000692,Simpson,Mississippi
+LOC_000693,Stone,Mississippi
+LOC_000694,Tate,Mississippi
+LOC_000695,Tippah,Mississippi
+LOC_000696,Tunica,Mississippi
+LOC_000697,Union,Mississippi
+LOC_000698,Warren,Mississippi
+LOC_000699,Washington,Mississippi
+LOC_000700,Beaverhead,Montana
+LOC_000701,Blaine,Montana
+LOC_000702,Cascade,Montana
+LOC_000703,Deer Lodge,Montana
+LOC_000704,Flathead,Montana
+LOC_000705,Gallatin,Montana
+LOC_000706,Hill,Montana
+LOC_000707,Lake,Montana
+LOC_000708,Lewis and Clark,Montana
+LOC_000709,Roosevelt,Montana
+LOC_000710,Silver Bow,Montana
+LOC_000711,Sweet Grass,Montana
+LOC_000712,Yellowstone,Montana
+LOC_000713,Adams,Nebraska
+LOC_000714,Dodge,Nebraska
+LOC_000715,Douglas,Nebraska
+LOC_000716,Hall,Nebraska
+LOC_000717,Jefferson,Nebraska
+LOC_000718,Lancaster,Nebraska
+LOC_000719,Nemaha,Nebraska
+LOC_000720,Pawnee,Nebraska
+LOC_000721,Sarpy,Nebraska
+LOC_000722,Richardson,Nebraska
+LOC_000723,Alamance,North Carolina
+LOC_000724,Alexander,North Carolina
+LOC_000725,Anson,North Carolina
+LOC_000726,Bertie,North Carolina
+LOC_000727,Bladen,North Carolina
+LOC_000728,Brunswick,North Carolina
+LOC_000729,Buncombe,North Carolina
+LOC_000730,Burke,North Carolina
+LOC_000731,Cabarrus,North Carolina
+LOC_000732,Caldwell,North Carolina
+LOC_000733,Camden,North Carolina
+LOC_000734,Carteret,North Carolina
+LOC_000735,Catawba,North Carolina
+LOC_000736,Chatham,North Carolina
+LOC_000737,Cherokee,North Carolina
+LOC_000738,Cleveland,North Carolina
+LOC_000739,Columbus,North Carolina
+LOC_000740,Cumberland,North Carolina
+LOC_000741,Currituck,North Carolina
+LOC_000742,Davidson,North Carolina
+LOC_000743,Davie,North Carolina
+LOC_000744,Duplin,North Carolina
+LOC_000745,Durham,North Carolina
+LOC_000746,Edgecombe,North Carolina
+LOC_000747,Nash,North Carolina
+LOC_000748,Forsyth,North Carolina
+LOC_000749,Franklin,North Carolina
+LOC_000750,Gaston,North Carolina
+LOC_000751,Graham,North Carolina
+LOC_000752,Granville,North Carolina
+LOC_000753,Greene,North Carolina
+LOC_000754,Guilford,North Carolina
+LOC_000755,Halifax,North Carolina
+LOC_000756,Harnett,North Carolina
+LOC_000757,Haywood,North Carolina
+LOC_000758,Henderson,North Carolina
+LOC_000759,Hertford,North Carolina
+LOC_000760,Hoke,North Carolina
+LOC_000761,Iredell,North Carolina
+LOC_000762,Jackson,North Carolina
+LOC_000763,Johnston,North Carolina
+LOC_000764,Jones,North Carolina
+LOC_000765,Lee,North Carolina
+LOC_000766,Lenoir,North Carolina
+LOC_000767,Lincoln,North Carolina
+LOC_000768,McDowell,North Carolina
+LOC_000769,Macon,North Carolina
+LOC_000770,Mecklenburg,North Carolina
+LOC_000771,Moore,North Carolina
+LOC_000772,New Hanover,North Carolina
+LOC_000773,Northampton,North Carolina
+LOC_000774,Onslow,North Carolina
+LOC_000775,Orange,North Carolina
+LOC_000776,Pasquotank,North Carolina
+LOC_000777,Perquimans,North Carolina
+LOC_000778,Person,North Carolina
+LOC_000779,Pitt,North Carolina
+LOC_000780,Polk,North Carolina
+LOC_000781,Randolph,North Carolina
+LOC_000782,Richmond,North Carolina
+LOC_000783,Robeson,North Carolina
+LOC_000784,Rockingham,North Carolina
+LOC_000785,Rowan,North Carolina
+LOC_000786,Rutherford,North Carolina
+LOC_000787,Sampson,North Carolina
+LOC_000788,Scotland,North Carolina
+LOC_000789,Stanly,North Carolina
+LOC_000790,Stokes,North Carolina
+LOC_000791,Surry,North Carolina
+LOC_000792,Swain,North Carolina
+LOC_000793,Union,North Carolina
+LOC_000794,Vance,North Carolina
+LOC_000795,Wake,North Carolina
+LOC_000796,Warren,North Carolina
+LOC_000797,Wayne,North Carolina
+LOC_000798,Wilkes,North Carolina
+LOC_000799,Wilson,North Carolina
+LOC_000800,Barnes,North Dakota
+LOC_000801,Burleigh,North Dakota
+LOC_000802,Cass,North Dakota
+LOC_000803,Grand Forks,North Dakota
+LOC_000804,Morton,North Dakota
+LOC_000805,Williams,North Dakota
+LOC_000806,Belknap,New Hampshire
+LOC_000807,Carroll,New Hampshire
+LOC_000808,Grafton,New Hampshire
+LOC_000809,Hillsborough,New Hampshire
+LOC_000810,Rockingham,New Hampshire
+LOC_000811,Strafford,New Hampshire
+LOC_000812,Atlantic,New Jersey
+LOC_000813,Bergen,New Jersey
+LOC_000814,Burlington,New Jersey
+LOC_000815,Camden,New Jersey
+LOC_000816,Cape May,New Jersey
+LOC_000817,Cumberland,New Jersey
+LOC_000818,Essex,New Jersey
+LOC_000819,Gloucester,New Jersey
+LOC_000820,Hudson,New Jersey
+LOC_000821,Mercer,New Jersey
+LOC_000822,Middlesex,New Jersey
+LOC_000823,Monmouth,New Jersey
+LOC_000824,Morris,New Jersey
+LOC_000825,Ocean,New Jersey
+LOC_000826,Passaic,New Jersey
+LOC_000827,Salem,New Jersey
+LOC_000828,Somerset,New Jersey
+LOC_000829,Sussex,New Jersey
+LOC_000830,Union,New Jersey
+LOC_000831,Warren,New Jersey
+LOC_000832,Bernalillo,New Mexico
+LOC_000833,Chaves,New Mexico
+LOC_000834,Colfax,New Mexico
+LOC_000835,Curry,New Mexico
+LOC_000836,Dona Ana,New Mexico
+LOC_000837,Eddy,New Mexico
+LOC_000838,Grant,New Mexico
+LOC_000839,Lea,New Mexico
+LOC_000840,Mora,New Mexico
+LOC_000841,Otero,New Mexico
+LOC_000842,Sandoval,New Mexico
+LOC_000843,San Juan,New Mexico
+LOC_000844,Santa Fe,New Mexico
+LOC_000845,Taos,New Mexico
+LOC_000846,Valencia,New Mexico
+LOC_000847,Cibola,New Mexico
+LOC_000848,Churchill,Nevada
+LOC_000849,Clark,Nevada
+LOC_000850,Douglas,Nevada
+LOC_000851,Elko,Nevada
+LOC_000852,Humboldt,Nevada
+LOC_000853,Lyon,Nevada
+LOC_000854,Nye,Nevada
+LOC_000855,Carson City city,Nevada
+LOC_000856,Pershing,Nevada
+LOC_000857,Washoe,Nevada
+LOC_000858,White Pine,Nevada
+LOC_000859,Albany,New York
+LOC_000860,Allegany,New York
+LOC_000861,Broome,New York
+LOC_000862,Chemung,New York
+LOC_000863,Clinton,New York
+LOC_000864,Columbia,New York
+LOC_000865,Delaware,New York
+LOC_000866,Dutchess,New York
+LOC_000867,Erie,New York
+LOC_000868,Franklin,New York
+LOC_000869,Genesee,New York
+LOC_000870,Greene,New York
+LOC_000871,Jefferson,New York
+LOC_000872,Livingston,New York
+LOC_000873,Monroe,New York
+LOC_000874,Nassau,New York
+LOC_000875,New York,New York
+LOC_000876,Niagara,New York
+LOC_000877,Oneida,New York
+LOC_000878,Onondaga,New York
+LOC_000879,Ontario,New York
+LOC_000880,Orange,New York
+LOC_000881,Otsego,New York
+LOC_000882,Rensselaer,New York
+LOC_000883,Rockland,New York
+LOC_000884,St. Lawrence,New York
+LOC_000885,Saratoga,New York
+LOC_000886,Schenectady,New York
+LOC_000887,Schoharie,New York
+LOC_000888,Steuben,New York
+LOC_000889,Suffolk,New York
+LOC_000890,Sullivan,New York
+LOC_000891,Ulster,New York
+LOC_000892,Washington,New York
+LOC_000893,Westchester,New York
+LOC_000894,Wyoming,New York
+LOC_000895,Chautauqua,New York
+LOC_000896,Herkimer,New York
+LOC_000897,Oswego,New York
+LOC_000898,Putnam,New York
+LOC_000899,Tompkins,New York
+LOC_000900,Allen,Ohio
+LOC_000901,Ashland,Ohio
+LOC_000902,Belmont,Ohio
+LOC_000903,Brown,Ohio
+LOC_000904,Butler,Ohio
+LOC_000905,Clark,Ohio
+LOC_000906,Clermont,Ohio
+LOC_000907,Clinton,Ohio
+LOC_000908,Columbiana,Ohio
+LOC_000909,Cuyahoga,Ohio
+LOC_000910,Darke,Ohio
+LOC_000911,Defiance,Ohio
+LOC_000912,Delaware,Ohio
+LOC_000913,Fairfield,Ohio
+LOC_000914,Fayette,Ohio
+LOC_000915,Franklin,Ohio
+LOC_000916,Fulton,Ohio
+LOC_000917,Greene,Ohio
+LOC_000918,Hamilton,Ohio
+LOC_000919,Hardin,Ohio
+LOC_000920,Harrison,Ohio
+LOC_000921,Jefferson,Ohio
+LOC_000922,Lake,Ohio
+LOC_000923,Lorain,Ohio
+LOC_000924,Lucas,Ohio
+LOC_000925,Mahoning,Ohio
+LOC_000926,Marion,Ohio
+LOC_000927,Miami,Ohio
+LOC_000928,Montgomery,Ohio
+LOC_000929,Muskingum,Ohio
+LOC_000930,Pike,Ohio
+LOC_000931,Portage,Ohio
+LOC_000932,Preble,Ohio
+LOC_000933,Richland,Ohio
+LOC_000934,Ross,Ohio
+LOC_000935,Sandusky,Ohio
+LOC_000936,Stark,Ohio
+LOC_000937,Summit,Ohio
+LOC_000938,Trumbull,Ohio
+LOC_000939,Tuscarawas,Ohio
+LOC_000940,Warren,Ohio
+LOC_000941,Wayne,Ohio
+LOC_000942,Adair,Oklahoma
+LOC_000943,Bryan,Oklahoma
+LOC_000944,Canadian,Oklahoma
+LOC_000945,Carter,Oklahoma
+LOC_000946,Cherokee,Oklahoma
+LOC_000947,Choctaw,Oklahoma
+LOC_000948,Cleveland,Oklahoma
+LOC_000949,Coal,Oklahoma
+LOC_000950,Comanche,Oklahoma
+LOC_000951,Cotton,Oklahoma
+LOC_000952,Craig,Oklahoma
+LOC_000953,Creek,Oklahoma
+LOC_000954,Custer,Oklahoma
+LOC_000955,Delaware,Oklahoma
+LOC_000956,Garfield,Oklahoma
+LOC_000957,Garvin,Oklahoma
+LOC_000958,Grady,Oklahoma
+LOC_000959,Harmon,Oklahoma
+LOC_000960,Haskell,Oklahoma
+LOC_000961,Le Flore,Oklahoma
+LOC_000962,Lincoln,Oklahoma
+LOC_000963,Logan,Oklahoma
+LOC_000964,Love,Oklahoma
+LOC_000965,McClain,Oklahoma
+LOC_000966,McCurtain,Oklahoma
+LOC_000967,McIntosh,Oklahoma
+LOC_000968,Marshall,Oklahoma
+LOC_000969,Mayes,Oklahoma
+LOC_000970,Muskogee,Oklahoma
+LOC_000971,Nowata,Oklahoma
+LOC_000972,Oklahoma,Oklahoma
+LOC_000973,Okmulgee,Oklahoma
+LOC_000974,Osage,Oklahoma
+LOC_000975,Ottawa,Oklahoma
+LOC_000976,Payne,Oklahoma
+LOC_000977,Pittsburg,Oklahoma
+LOC_000978,Pontotoc,Oklahoma
+LOC_000979,Pottawatomie,Oklahoma
+LOC_000980,Pushmataha,Oklahoma
+LOC_000981,Rogers,Oklahoma
+LOC_000982,Seminole,Oklahoma
+LOC_000983,Texas,Oklahoma
+LOC_000984,Tulsa,Oklahoma
+LOC_000985,Wagoner,Oklahoma
+LOC_000986,Washita,Oklahoma
+LOC_000987,Woodward,Oklahoma
+LOC_000988,Baker,Oregon
+LOC_000989,Clackamas,Oregon
+LOC_000990,Clatsop,Oregon
+LOC_000991,Columbia,Oregon
+LOC_000992,Curry,Oregon
+LOC_000993,Deschutes,Oregon
+LOC_000994,Douglas,Oregon
+LOC_000995,Hood River,Oregon
+LOC_000996,Jackson,Oregon
+LOC_000997,Jefferson,Oregon
+LOC_000998,Josephine,Oregon
+LOC_000999,Klamath,Oregon
+LOC_001000,Lane,Oregon
+LOC_001001,Lincoln,Oregon
+LOC_001002,Linn,Oregon
+LOC_001003,Malheur,Oregon
+LOC_001004,Marion,Oregon
+LOC_001005,Multnomah,Oregon
+LOC_001006,Polk,Oregon
+LOC_001007,Umatilla,Oregon
+LOC_001008,Washington,Oregon
+LOC_001009,Yamhill,Oregon
+LOC_001010,Adams,Pennsylvania
+LOC_001011,Allegheny,Pennsylvania
+LOC_001012,Armstrong,Pennsylvania
+LOC_001013,Beaver,Pennsylvania
+LOC_001014,Berks,Pennsylvania
+LOC_001015,Blair,Pennsylvania
+LOC_001016,Bradford,Pennsylvania
+LOC_001017,Bucks,Pennsylvania
+LOC_001018,Butler,Pennsylvania
+LOC_001019,Cambria,Pennsylvania
+LOC_001020,Carbon,Pennsylvania
+LOC_001021,Centre,Pennsylvania
+LOC_001022,Chester,Pennsylvania
+LOC_001023,Clearfield,Pennsylvania
+LOC_001024,Columbia,Pennsylvania
+LOC_001025,Crawford,Pennsylvania
+LOC_001026,Cumberland,Pennsylvania
+LOC_001027,Dauphin,Pennsylvania
+LOC_001028,Delaware,Pennsylvania
+LOC_001029,Erie,Pennsylvania
+LOC_001030,Fayette,Pennsylvania
+LOC_001031,Franklin,Pennsylvania
+LOC_001032,Greene,Pennsylvania
+LOC_001033,Huntingdon,Pennsylvania
+LOC_001034,Indiana,Pennsylvania
+LOC_001035,Jefferson,Pennsylvania
+LOC_001036,Lancaster,Pennsylvania
+LOC_001037,Lawrence,Pennsylvania
+LOC_001038,Lebanon,Pennsylvania
+LOC_001039,Lehigh,Pennsylvania
+LOC_001040,Luzerne,Pennsylvania
+LOC_001041,Lycoming,Pennsylvania
+LOC_001042,McKean,Pennsylvania
+LOC_001043,Mercer,Pennsylvania
+LOC_001044,Mifflin,Pennsylvania
+LOC_001045,Monroe,Pennsylvania
+LOC_001046,Montgomery,Pennsylvania
+LOC_001047,Northampton,Pennsylvania
+LOC_001048,Northumberland,Pennsylvania
+LOC_001049,Perry,Pennsylvania
+LOC_001050,Pike,Pennsylvania
+LOC_001051,Schuylkill,Pennsylvania
+LOC_001052,Somerset,Pennsylvania
+LOC_001053,Venango,Pennsylvania
+LOC_001054,Washington,Pennsylvania
+LOC_001055,Wayne,Pennsylvania
+LOC_001056,Westmoreland,Pennsylvania
+LOC_001057,York,Pennsylvania
+LOC_001058,Philadelphia,Pennsylvania
+LOC_001059,Kent,Rhodes Island
+LOC_001060,Providence,Rhodes Island
+LOC_001061,Abbeville,South Carolina
+LOC_001062,Aiken,South Carolina
+LOC_001063,Allendale,South Carolina
+LOC_001064,Anderson,South Carolina
+LOC_001065,Bamberg,South Carolina
+LOC_001066,Barnwell,South Carolina
+LOC_001067,Beaufort,South Carolina
+LOC_001068,Berkeley,South Carolina
+LOC_001069,Charleston,South Carolina
+LOC_001070,Cherokee,South Carolina
+LOC_001071,Chester,South Carolina
+LOC_001072,Chesterfield,South Carolina
+LOC_001073,Colleton,South Carolina
+LOC_001074,Darlington,South Carolina
+LOC_001075,Dillon,South Carolina
+LOC_001076,Dorchester,South Carolina
+LOC_001077,Edgefield,South Carolina
+LOC_001078,Fairfield,South Carolina
+LOC_001079,Florence,South Carolina
+LOC_001080,Georgetown,South Carolina
+LOC_001081,Greenville,South Carolina
+LOC_001082,Greenwood,South Carolina
+LOC_001083,Horry,South Carolina
+LOC_001084,Jasper,South Carolina
+LOC_001085,Kershaw,South Carolina
+LOC_001086,Lancaster,South Carolina
+LOC_001087,Laurens,South Carolina
+LOC_001088,Lee,South Carolina
+LOC_001089,Lexington,South Carolina
+LOC_001090,Marion,South Carolina
+LOC_001091,Marlboro,South Carolina
+LOC_001092,Oconee,South Carolina
+LOC_001093,Orangeburg,South Carolina
+LOC_001094,Pickens,South Carolina
+LOC_001095,Richland,South Carolina
+LOC_001096,Spartanburg,South Carolina
+LOC_001097,Sumter,South Carolina
+LOC_001098,Williamsburg,South Carolina
+LOC_001099,York,South Carolina
+LOC_001100,Fall River,South Dakota
+LOC_001101,Hughes,South Dakota
+LOC_001102,Minnehaha,South Dakota
+LOC_001103,Pennington,South Dakota
+LOC_001104,Anderson,Tennessee
+LOC_001105,Bedford,Tennessee
+LOC_001106,Blount,Tennessee
+LOC_001107,Bradley,Tennessee
+LOC_001108,Campbell,Tennessee
+LOC_001109,Cannon,Tennessee
+LOC_001110,Carter,Tennessee
+LOC_001111,Cheatham,Tennessee
+LOC_001112,Chester,Tennessee
+LOC_001113,Claiborne,Tennessee
+LOC_001114,Cocke,Tennessee
+LOC_001115,Coffee,Tennessee
+LOC_001116,Cumberland,Tennessee
+LOC_001117,Davidson,Tennessee
+LOC_001118,Decatur,Tennessee
+LOC_001119,DeKalb,Tennessee
+LOC_001120,Dickson,Tennessee
+LOC_001121,Dyer,Tennessee
+LOC_001122,Fentress,Tennessee
+LOC_001123,Franklin,Tennessee
+LOC_001124,Greene,Tennessee
+LOC_001125,Grundy,Tennessee
+LOC_001126,Hamblen,Tennessee
+LOC_001127,Hamilton,Tennessee
+LOC_001128,Hardeman,Tennessee
+LOC_001129,Hardin,Tennessee
+LOC_001130,Hawkins,Tennessee
+LOC_001131,Haywood,Tennessee
+LOC_001132,Henderson,Tennessee
+LOC_001133,Hickman,Tennessee
+LOC_001134,Houston,Tennessee
+LOC_001135,Humphreys,Tennessee
+LOC_001136,Johnson,Tennessee
+LOC_001137,Knox,Tennessee
+LOC_001138,Lauderdale,Tennessee
+LOC_001139,Lawrence,Tennessee
+LOC_001140,Lincoln,Tennessee
+LOC_001141,Loudon,Tennessee
+LOC_001142,McMinn,Tennessee
+LOC_001143,McNairy,Tennessee
+LOC_001144,Madison,Tennessee
+LOC_001145,Maury,Tennessee
+LOC_001146,Montgomery,Tennessee
+LOC_001147,Obion,Tennessee
+LOC_001148,Polk,Tennessee
+LOC_001149,Putnam,Tennessee
+LOC_001150,Rhea,Tennessee
+LOC_001151,Roane,Tennessee
+LOC_001152,Robertson,Tennessee
+LOC_001153,Rutherford,Tennessee
+LOC_001154,Scott,Tennessee
+LOC_001155,Sequatchie,Tennessee
+LOC_001156,Sevier,Tennessee
+LOC_001157,Shelby,Tennessee
+LOC_001158,Sullivan,Tennessee
+LOC_001159,Sumner,Tennessee
+LOC_001160,Tipton,Tennessee
+LOC_001161,Van Buren,Tennessee
+LOC_001162,Warren,Tennessee
+LOC_001163,Washington,Tennessee
+LOC_001164,Wayne,Tennessee
+LOC_001165,Williamson,Tennessee
+LOC_001166,Wilson,Tennessee
+LOC_001167,Anderson,Texas
+LOC_001168,Angelina,Texas
+LOC_001169,Aransas,Texas
+LOC_001170,San Patricio,Texas
+LOC_001171,Atascosa,Texas
+LOC_001172,Bailey,Texas
+LOC_001173,Bandera,Texas
+LOC_001174,Bastrop,Texas
+LOC_001175,Bee,Texas
+LOC_001176,Bell,Texas
+LOC_001177,Bexar,Texas
+LOC_001178,Bowie,Texas
+LOC_001179,Brazoria,Texas
+LOC_001180,Brazos,Texas
+LOC_001181,Brooks,Texas
+LOC_001182,Burleson,Texas
+LOC_001183,Cameron,Texas
+LOC_001184,Camp,Texas
+LOC_001185,Cass,Texas
+LOC_001186,Chambers,Texas
+LOC_001187,Cherokee,Texas
+LOC_001188,Collin,Texas
+LOC_001189,Colorado,Texas
+LOC_001190,Comal,Texas
+LOC_001191,Comanche,Texas
+LOC_001192,Cooke,Texas
+LOC_001193,Coryell,Texas
+LOC_001194,Dallas,Texas
+LOC_001195,Denton,Texas
+LOC_001196,Dickens,Texas
+LOC_001197,Dimmit,Texas
+LOC_001198,Ector,Texas
+LOC_001199,Ellis,Texas
+LOC_001200,El Paso,Texas
+LOC_001201,Falls,Texas
+LOC_001202,Fayette,Texas
+LOC_001203,Fort Bend,Texas
+LOC_001204,Franklin,Texas
+LOC_001205,Frio,Texas
+LOC_001206,Gaines,Texas
+LOC_001207,Galveston,Texas
+LOC_001208,Gonzales,Texas
+LOC_001209,Grayson,Texas
+LOC_001210,Gregg,Texas
+LOC_001211,Guadalupe,Texas
+LOC_001212,Hale,Texas
+LOC_001213,Hardin,Texas
+LOC_001214,Harris,Texas
+LOC_001215,Harrison,Texas
+LOC_001216,Hays,Texas
+LOC_001217,Henderson,Texas
+LOC_001218,Hidalgo,Texas
+LOC_001219,Hill,Texas
+LOC_001220,Hood,Texas
+LOC_001221,Hopkins,Texas
+LOC_001222,Howard,Texas
+LOC_001223,Hunt,Texas
+LOC_001224,Jack,Texas
+LOC_001225,Jasper,Texas
+LOC_001226,Jefferson,Texas
+LOC_001227,Jim Wells,Texas
+LOC_001228,Johnson,Texas
+LOC_001229,Kaufman,Texas
+LOC_001230,Kendall,Texas
+LOC_001231,Kent,Texas
+LOC_001232,Kerr,Texas
+LOC_001233,Lamar,Texas
+LOC_001234,Lavaca,Texas
+LOC_001235,Lee,Texas
+LOC_001236,Leon,Texas
+LOC_001237,Liberty,Texas
+LOC_001238,Live Oak,Texas
+LOC_001239,Lubbock,Texas
+LOC_001240,McLennan,Texas
+LOC_001241,Madison,Texas
+LOC_001242,Matagorda,Texas
+LOC_001243,Maverick,Texas
+LOC_001244,Medina,Texas
+LOC_001245,Midland,Texas
+LOC_001246,Montague,Texas
+LOC_001247,Montgomery,Texas
+LOC_001248,Nacogdoches,Texas
+LOC_001249,Navarro,Texas
+LOC_001250,Nolan,Texas
+LOC_001251,Nueces,Texas
+LOC_001252,Palo Pinto,Texas
+LOC_001253,Panola,Texas
+LOC_001254,Parker,Texas
+LOC_001255,Polk,Texas
+LOC_001256,Potter,Texas
+LOC_001257,Red River,Texas
+LOC_001258,Robertson,Texas
+LOC_001259,Rusk,Texas
+LOC_001260,Sabine,Texas
+LOC_001261,San Augustine,Texas
+LOC_001262,Scurry,Texas
+LOC_001263,Shelby,Texas
+LOC_001264,Smith,Texas
+LOC_001265,Somervell,Texas
+LOC_001266,Starr,Texas
+LOC_001267,Stephens,Texas
+LOC_001268,Sutton,Texas
+LOC_001269,Tarrant,Texas
+LOC_001270,Taylor,Texas
+LOC_001271,Titus,Texas
+LOC_001272,Tom Green,Texas
+LOC_001273,Travis,Texas
+LOC_001274,Trinity,Texas
+LOC_001275,Tyler,Texas
+LOC_001276,Upton,Texas
+LOC_001277,Uvalde,Texas
+LOC_001278,Victoria,Texas
+LOC_001279,Walker,Texas
+LOC_001280,Waller,Texas
+LOC_001281,Ward,Texas
+LOC_001282,Washington,Texas
+LOC_001283,Webb,Texas
+LOC_001284,Wharton,Texas
+LOC_001285,Wheeler,Texas
+LOC_001286,Wichita,Texas
+LOC_001287,Williamson,Texas
+LOC_001288,Wise,Texas
+LOC_001289,Wood,Texas
+LOC_001290,Box Elder,Utah
+LOC_001291,Cache,Utah
+LOC_001292,Davis,Utah
+LOC_001293,Duchesne,Utah
+LOC_001294,Emery,Utah
+LOC_001295,Iron,Utah
+LOC_001296,Millard,Utah
+LOC_001297,Salt Lake,Utah
+LOC_001298,Tooele,Utah
+LOC_001299,Uintah,Utah
+LOC_001300,Utah,Utah
+LOC_001301,Washington,Utah
+LOC_001302,Weber,Utah
+LOC_001303,Accomack,Virginia
+LOC_001304,Albemarle,Virginia
+LOC_001305,Amelia,Virginia
+LOC_001306,Arlington,Virginia
+LOC_001307,Augusta,Virginia
+LOC_001308,Bedford,Virginia
+LOC_001309,Brunswick,Virginia
+LOC_001310,Buchanan,Virginia
+LOC_001311,Campbell,Virginia
+LOC_001312,Caroline,Virginia
+LOC_001313,Carroll,Virginia
+LOC_001314,Charlotte,Virginia
+LOC_001315,Chesterfield,Virginia
+LOC_001316,Culpeper,Virginia
+LOC_001317,Dinwiddie,Virginia
+LOC_001318,Fairfax,Virginia
+LOC_001319,Fauquier,Virginia
+LOC_001320,Franklin,Virginia
+LOC_001321,Frederick,Virginia
+LOC_001322,Giles,Virginia
+LOC_001323,Goochland,Virginia
+LOC_001324,Greensville,Virginia
+LOC_001325,Emporia,Virginia
+LOC_001326,Halifax,Virginia
+LOC_001327,Hanover,Virginia
+LOC_001328,Henrico,Virginia
+LOC_001329,Henry,Virginia
+LOC_001330,Isle of Wight,Virginia
+LOC_001331,James City,Virginia
+LOC_001332,Lancaster,Virginia
+LOC_001333,Loudoun,Virginia
+LOC_001334,Louisa,Virginia
+LOC_001335,Middlesex,Virginia
+LOC_001336,Montgomery,Virginia
+LOC_001337,Northampton,Virginia
+LOC_001338,Nottoway,Virginia
+LOC_001339,Orange,Virginia
+LOC_001340,Page,Virginia
+LOC_001341,Pittsylvania,Virginia
+LOC_001342,Manassas,Virginia
+LOC_001343,Prince William,Virginia
+LOC_001344,Pulaski,Virginia
+LOC_001345,Rappahannock,Virginia
+LOC_001346,Rockingham,Virginia
+LOC_001347,Russell,Virginia
+LOC_001348,Scott,Virginia
+LOC_001349,Smyth,Virginia
+LOC_001350,Southampton,Virginia
+LOC_001351,Spotsylvania,Virginia
+LOC_001352,Stafford,Virginia
+LOC_001353,Sussex,Virginia
+LOC_001354,Tazewell,Virginia
+LOC_001355,Warren,Virginia
+LOC_001356,Westmoreland,Virginia
+LOC_001357,Wise,Virginia
+LOC_001358,Wythe,Virginia
+LOC_001359,York,Virginia
+LOC_001360,Alexandria,Virginia
+LOC_001361,Bristol,Virginia
+LOC_001362,Charlottesville,Virginia
+LOC_001363,Chesapeake,Virginia
+LOC_001364,Danville,Virginia
+LOC_001365,Fredericksburg,Virginia
+LOC_001366,Galax,Virginia
+LOC_001367,Hampton,Virginia
+LOC_001368,Harrisonburg,Virginia
+LOC_001369,Hopewell,Virginia
+LOC_001370,Lynchburg,Virginia
+LOC_001371,Newport News,Virginia
+LOC_001372,Norfolk,Virginia
+LOC_001373,Petersburg,Virginia
+LOC_001374,Portsmouth,Virginia
+LOC_001375,Radford,Virginia
+LOC_001376,Richmond,Virginia
+LOC_001377,Roanoke,Virginia
+LOC_001378,Suffolk,Virginia
+LOC_001379,Virginia Beach,Virginia
+LOC_001380,Williamsburg,Virginia
+LOC_001381,Chittenden,Vermont
+LOC_001382,Addison,Vermont
+LOC_001383,Bennington,Vermont
+LOC_001384,Caledonia,Vermont
+LOC_001385,Franklin,Vermont
+LOC_001386,Orange,Vermont
+LOC_001387,Orleans,Vermont
+LOC_001388,Washington,Vermont
+LOC_001389,Adams,Washington
+LOC_001390,Benton,Washington
+LOC_001391,Chelan,Washington
+LOC_001392,Clallam,Washington
+LOC_001393,Clark,Washington
+LOC_001394,Cowlitz,Washington
+LOC_001395,Douglas,Washington
+LOC_001396,Franklin,Washington
+LOC_001397,Grant,Washington
+LOC_001398,Grays Harbor,Washington
+LOC_001399,King,Washington
+LOC_001400,Kitsap,Washington
+LOC_001401,Lewis,Washington
+LOC_001402,Mason,Washington
+LOC_001403,Okanogan,Washington
+LOC_001404,Pacific,Washington
+LOC_001405,Pend Oreille,Washington
+LOC_001406,Pierce,Washington
+LOC_001407,Skagit,Washington
+LOC_001408,Snohomish,Washington
+LOC_001409,Spokane,Washington
+LOC_001410,Stevens,Washington
+LOC_001411,Thurston,Washington
+LOC_001412,Walla Walla,Washington
+LOC_001413,Whatcom,Washington
+LOC_001414,Whitman,Washington
+LOC_001415,Yakima,Washington
+LOC_001416,Barron,Wisconsin
+LOC_001417,Brown,Wisconsin
+LOC_001418,Crawford,Wisconsin
+LOC_001419,Dane,Wisconsin
+LOC_001420,Dodge,Wisconsin
+LOC_001421,Douglas,Wisconsin
+LOC_001422,Eau Claire,Wisconsin
+LOC_001423,Fond du Lac,Wisconsin
+LOC_001424,Green,Wisconsin
+LOC_001425,Iowa,Wisconsin
+LOC_001426,Kenosha,Wisconsin
+LOC_001427,Lafayette,Wisconsin
+LOC_001428,Manitowoc,Wisconsin
+LOC_001429,Marathon,Wisconsin
+LOC_001430,Milwaukee,Wisconsin
+LOC_001431,Outagamie,Wisconsin
+LOC_001432,Ozaukee,Wisconsin
+LOC_001433,Polk,Wisconsin
+LOC_001434,Portage,Wisconsin
+LOC_001435,Racine,Wisconsin
+LOC_001436,Rock,Wisconsin
+LOC_001437,St. Croix,Wisconsin
+LOC_001438,Sauk,Wisconsin
+LOC_001439,Sheboygan,Wisconsin
+LOC_001440,Trempealeau,Wisconsin
+LOC_001441,Washington,Wisconsin
+LOC_001442,Waukesha,Wisconsin
+LOC_001443,Winnebago,Wisconsin
+LOC_001444,Berkeley,West Virginia
+LOC_001445,Cabell,West Virginia
+LOC_001446,Hancock,West Virginia
+LOC_001447,Harrison,West Virginia
+LOC_001448,Jefferson,West Virginia
+LOC_001449,Kanawha,West Virginia
+LOC_001450,Lewis,West Virginia
+LOC_001451,Logan,West Virginia
+LOC_001452,Marion,West Virginia
+LOC_001453,Mercer,West Virginia
+LOC_001454,Monongalia,West Virginia
+LOC_001455,Ohio,West Virginia
+LOC_001456,Preston,West Virginia
+LOC_001457,Putnam,West Virginia
+LOC_001458,Raleigh,West Virginia
+LOC_001459,Summers,West Virginia
+LOC_001460,Wood,West Virginia
+LOC_001461,Gilmer,West Virginia
+LOC_001462,Ritchie,West Virginia
+LOC_001463,Mineral,West Virginia
+LOC_001464,Greenbrier,West Virginia
+LOC_001465,Boone,West Virginia
+LOC_001466,Hardy,West Virginia
+LOC_001467,Barbour,West Virginia
+LOC_001468,Monroe,West Virginia
+LOC_001469,Mingo,West Virginia
+LOC_001470,Albany,Wyoming
+LOC_001471,Laramie,Wyoming
+LOC_001472,Natrona,Wyoming
+LOC_001473,Sublette,Wyoming
+LOC_001474,Sweetwater,Wyoming
+LOC_001475,Ketchikan Gateway,Alaska
+LOC_001476,Kenai Peninsula,Alaska
+LOC_001477,Cleburne,Alabama
+LOC_001478,Coffee,Alabama
+LOC_001479,Dale,Alabama
+LOC_001480,Geneva,Alabama
+LOC_001481,Lauderdale,Alabama
+LOC_001482,Monroe,Alabama
+LOC_001483,Pike,Alabama
+LOC_001484,Tallapoosa,Alabama
+LOC_001485,Winston,Alabama
+LOC_001486,Chicot,Arkansas
+LOC_001487,Drew,Arkansas
+LOC_001488,Monroe,Arkansas
+LOC_001489,Nevada,Arkansas
+LOC_001490,Apache,Arizona
+LOC_001491,Alpine,California
+LOC_001492,Colusa,California
+LOC_001493,Del Norte,California
+LOC_001494,Modoc,California
+LOC_001495,Plumas,California
+LOC_001496,Siskiyou,California
+LOC_001497,Trinity,California
+LOC_001498,Tuolumne,California
+LOC_001499,Alamosa,Colorado
+LOC_001500,Bent,Colorado
+LOC_001501,Montezuma,Colorado
+LOC_001502,Prowers,Colorado
+LOC_001503,Routt,Colorado
+LOC_001504,Teller,Colorado
+LOC_001505,Windham,Connecticut
+LOC_001506,Tolland,Connecticut
+LOC_001507,Bradford,Florida
+LOC_001508,Calhoun,Florida
+LOC_001509,Hamilton,Florida
+LOC_001510,Hardee,Florida
+LOC_001511,Holmes,Florida
+LOC_001512,Jefferson,Florida
+LOC_001513,Suwannee,Florida
+LOC_001514,Wakulla,Florida
+LOC_001515,Appling,Georgia
+LOC_001516,Banks,Georgia
+LOC_001517,Brantley,Georgia
+LOC_001518,Charlton,Georgia
+LOC_001519,Cherokee,Georgia
+LOC_001520,Columbia,Georgia
+LOC_001521,Cook,Georgia
+LOC_001522,Dooly,Georgia
+LOC_001523,Evans,Georgia
+LOC_001524,Habersham,Georgia
+LOC_001525,Hart,Georgia
+LOC_001526,Jones,Georgia
+LOC_001527,McIntosh,Georgia
+LOC_001528,Madison,Georgia
+LOC_001529,Mitchell,Georgia
+LOC_001530,Peach,Georgia
+LOC_001531,Pierce,Georgia
+LOC_001532,Polk,Georgia
+LOC_001533,Screven,Georgia
+LOC_001534,Tift,Georgia
+LOC_001535,Towns,Georgia
+LOC_001536,Wilcox,Georgia
+LOC_001537,Worth,Georgia
+LOC_001538,Kauai,Hawaii
+LOC_001539,Boone,Iowa
+LOC_001540,Carroll,Iowa
+LOC_001541,Clarke,Iowa
+LOC_001542,Dubuque,Iowa
+LOC_001543,Floyd,Iowa
+LOC_001544,Guthrie,Iowa
+LOC_001545,Hamilton,Iowa
+LOC_001546,Jasper,Iowa
+LOC_001547,Story,Iowa
+LOC_001548,Adams,Idaho
+LOC_001549,Bingham,Idaho
+LOC_001550,Blaine,Idaho
+LOC_001551,Bonner,Idaho
+LOC_001552,Elmore,Idaho
+LOC_001553,Latah,Idaho
+LOC_001554,Shoshone,Idaho
+LOC_001555,Blackford,Indiana
+LOC_001556,Boone,Indiana
+LOC_001557,Carroll,Indiana
+LOC_001558,Cass,Indiana
+LOC_001559,Clark,Indiana
+LOC_001560,Daviess,Indiana
+LOC_001561,Fountain,Indiana
+LOC_001562,Hancock,Indiana
+LOC_001563,Hendricks,Indiana
+LOC_001564,Knox,Indiana
+LOC_001565,Warrick,Indiana
+LOC_001566,De Kalb,Indiana
+LOC_001567,Barton,Kansas
+LOC_001568,Coffey,Kansas
+LOC_001569,Cowley,Kansas
+LOC_001570,Dickinson,Kansas
+LOC_001571,Doniphan,Kansas
+LOC_001572,Ellis,Kansas
+LOC_001573,McPherson,Kansas
+LOC_001574,Pawnee,Kansas
+LOC_001575,Riley,Kansas
+LOC_001576,Russell,Kansas
+LOC_001577,Seward,Kansas
+LOC_001578,Barren,Kentucky
+LOC_001579,Boone,Kentucky
+LOC_001580,Bourbon,Kentucky
+LOC_001581,Bullitt,Kentucky
+LOC_001582,Carroll,Kentucky
+LOC_001583,Carter,Kentucky
+LOC_001584,Clark,Kentucky
+LOC_001585,Clay,Kentucky
+LOC_001586,Graves,Kentucky
+LOC_001587,Greenup,Kentucky
+LOC_001588,Hardin,Kentucky
+LOC_001589,Laurel,Kentucky
+LOC_001590,Mason,Kentucky
+LOC_001591,Meade,Kentucky
+LOC_001592,Montgomery,Kentucky
+LOC_001593,Muhlenberg,Kentucky
+LOC_001594,Nelson,Kentucky
+LOC_001595,Scott,Kentucky
+LOC_001596,Spencer,Kentucky
+LOC_001597,Beauregard,Louisiana
+LOC_001598,Cameron,Louisiana
+LOC_001599,East Carroll,Louisiana
+LOC_001600,East Feliciana,Louisiana
+LOC_001601,Sabine,Louisiana
+LOC_001602,St. Bernard,Louisiana
+LOC_001603,St. Martin,Louisiana
+LOC_001604,Union,Louisiana
+LOC_001605,Vermilion,Louisiana
+LOC_001606,Franklin,Massachusetts
+LOC_001607,Aroostook,Maine
+LOC_001608,Lincoln,Maine
+LOC_001609,York,Maine
+LOC_001610,Allegan,Michigan
+LOC_001611,Barry,Michigan
+LOC_001612,Chippewa,Michigan
+LOC_001613,Clare,Michigan
+LOC_001614,Delta,Michigan
+LOC_001615,Gogebic,Michigan
+LOC_001616,Grand Traverse,Michigan
+LOC_001617,Isabella,Michigan
+LOC_001618,Livingston,Michigan
+LOC_001619,Otsego,Michigan
+LOC_001620,St. Joseph,Michigan
+LOC_001621,Becker,Minnesota
+LOC_001622,Blue Earth,Minnesota
+LOC_001623,Chippewa,Minnesota
+LOC_001624,Cottonwood,Minnesota
+LOC_001625,Crow Wing,Minnesota
+LOC_001626,Douglas,Minnesota
+LOC_001627,Faribault,Minnesota
+LOC_001628,Kandiyohi,Minnesota
+LOC_001629,Mille Lacs,Minnesota
+LOC_001630,Mower,Minnesota
+LOC_001631,Polk,Minnesota
+LOC_001632,Scott,Minnesota
+LOC_001633,Waseca,Minnesota
+LOC_001634,Barton,Missouri
+LOC_001635,Bollinger,Missouri
+LOC_001636,Buchanan,Missouri
+LOC_001637,Cass,Missouri
+LOC_001638,Clinton,Missouri
+LOC_001639,Crawford,Missouri
+LOC_001640,Douglas,Missouri
+LOC_001641,McDonald,Missouri
+LOC_001642,Miller,Missouri
+LOC_001643,Nodaway,Missouri
+LOC_001644,Ozark,Missouri
+LOC_001645,Pettis,Missouri
+LOC_001646,Platte,Missouri
+LOC_001647,Polk,Missouri
+LOC_001648,St. Francois,Missouri
+LOC_001649,Shannon,Missouri
+LOC_001650,Macon,Missouri
+LOC_001651,Chickasaw,Mississippi
+LOC_001652,Clay,Mississippi
+LOC_001653,Hancock,Mississippi
+LOC_001654,Pike,Mississippi
+LOC_001655,Sunflower,Mississippi
+LOC_001656,Winston,Mississippi
+LOC_001657,Chouteau,Montana
+LOC_001658,Lincoln,Montana
+LOC_001659,Missoula,Montana
+LOC_001660,Sheridan,Montana
+LOC_001661,Dakota,Nebraska
+LOC_001662,Dawson,Nebraska
+LOC_001663,Gage,Nebraska
+LOC_001664,Madison,Nebraska
+LOC_001665,Scotts Bluff,Nebraska
+LOC_001666,Seward,Nebraska
+LOC_001667,Beaufort,North Carolina
+LOC_001668,Caswell,North Carolina
+LOC_001669,Chowan,North Carolina
+LOC_001670,Craven,North Carolina
+LOC_001671,Dare,North Carolina
+LOC_001672,Martin,North Carolina
+LOC_001673,Montgomery,North Carolina
+LOC_001674,Pender,North Carolina
+LOC_001675,Transylvania,North Carolina
+LOC_001676,Washington,North Carolina
+LOC_001677,Yadkin,North Carolina
+LOC_001678,Ramsey,North Dakota
+LOC_001679,Ward,North Dakota
+LOC_001680,Wells,North Dakota
+LOC_001681,Merrimack,New Hampshire
+LOC_001682,Hunterdon,New Jersey
+LOC_001683,Catron,New Mexico
+LOC_001684,Lincoln,New Mexico
+LOC_001685,Los Alamos,New Mexico
+LOC_001686,Luna,New Mexico
+LOC_001687,McKinley,New Mexico
+LOC_001688,Quay,New Mexico
+LOC_001689,Rio Arriba,New Mexico
+LOC_001690,San Miguel,New Mexico
+LOC_001691,Sierra,New Mexico
+LOC_001692,Socorro,New Mexico
+LOC_001693,Torrance,New Mexico
+LOC_001694,Lander,Nevada
+LOC_001695,Cattaraugus,New York
+LOC_001696,Chenango,New York
+LOC_001697,Montgomery,New York
+LOC_001698,Orleans,New York
+LOC_001699,Warren,New York
+LOC_001700,Wayne,New York
+LOC_001701,Fulton,New York
+LOC_001702,Madison,New York
+LOC_001703,Adams,Ohio
+LOC_001704,Athens,Ohio
+LOC_001705,Coshocton,Ohio
+LOC_001706,Erie,Ohio
+LOC_001707,Gallia,Ohio
+LOC_001708,Hancock,Ohio
+LOC_001709,Henry,Ohio
+LOC_001710,Huron,Ohio
+LOC_001711,Licking,Ohio
+LOC_001712,Paulding,Ohio
+LOC_001713,Pickaway,Ohio
+LOC_001714,Scioto,Ohio
+LOC_001715,Williams,Ohio
+LOC_001716,Beaver,Oklahoma
+LOC_001717,Caddo,Oklahoma
+LOC_001718,Dewey,Oklahoma
+LOC_001719,Greer,Oklahoma
+LOC_001720,Hughes,Oklahoma
+LOC_001721,Jackson,Oklahoma
+LOC_001722,Kay,Oklahoma
+LOC_001723,Major,Oklahoma
+LOC_001724,Noble,Oklahoma
+LOC_001725,Okfuskee,Oklahoma
+LOC_001726,Sequoyah,Oklahoma
+LOC_001727,Benton,Oregon
+LOC_001728,Crook,Oregon
+LOC_001729,Lake,Oregon
+LOC_001730,Clarion,Pennsylvania
+LOC_001731,Clinton,Pennsylvania
+LOC_001732,Fulton,Pennsylvania
+LOC_001733,Lackawanna,Pennsylvania
+LOC_001734,Potter,Pennsylvania
+LOC_001735,Wyoming,Pennsylvania
+LOC_001736,Clarendon,South Carolina
+LOC_001737,Hampton,South Carolina
+LOC_001738,Newberry,South Carolina
+LOC_001739,Saluda,South Carolina
+LOC_001740,Union,South Carolina
+LOC_001741,Codington,South Dakota
+LOC_001742,Lincoln,South Dakota
+LOC_001743,Yankton,South Dakota
+LOC_001744,Benton,Tennessee
+LOC_001745,Bledsoe,Tennessee
+LOC_001746,Carroll,Tennessee
+LOC_001747,Gibson,Tennessee
+LOC_001748,Grainger,Tennessee
+LOC_001749,Henry,Tennessee
+LOC_001750,Jefferson,Tennessee
+LOC_001751,Lake,Tennessee
+LOC_001752,Macon,Tennessee
+LOC_001753,Marion,Tennessee
+LOC_001754,Marshall,Tennessee
+LOC_001755,Monroe,Tennessee
+LOC_001756,Overton,Tennessee
+LOC_001757,Smith,Tennessee
+LOC_001758,Unicoi,Tennessee
+LOC_001759,Weakley,Tennessee
+LOC_001760,White,Tennessee
+LOC_001761,Burnet,Texas
+LOC_001762,Caldwell,Texas
+LOC_001763,Clay,Texas
+LOC_001764,Coleman,Texas
+LOC_001765,Dawson,Texas
+LOC_001766,Delta,Texas
+LOC_001767,De Witt,Texas
+LOC_001768,Erath,Texas
+LOC_001769,Freestone,Texas
+LOC_001770,Gillespie,Texas
+LOC_001771,Gray,Texas
+LOC_001772,Houston,Texas
+LOC_001773,Hutchinson,Texas
+LOC_001774,Jones,Texas
+LOC_001775,Karnes,Texas
+LOC_001776,Kleberg,Texas
+LOC_001777,Lampasas,Texas
+LOC_001778,Limestone,Texas
+LOC_001779,McMullen,Texas
+LOC_001780,Milam,Texas
+LOC_001781,Newton,Texas
+LOC_001782,Orange,Texas
+LOC_001783,Pecos,Texas
+LOC_001784,San Jacinto,Texas
+LOC_001785,Terrell,Texas
+LOC_001786,Upshur,Texas
+LOC_001787,Val Verde,Texas
+LOC_001788,Van Zandt,Texas
+LOC_001789,Wilbarger,Texas
+LOC_001790,Willacy,Texas
+LOC_001791,Wilson,Texas
+LOC_001792,Zapata,Texas
+LOC_001793,Beaver,Utah
+LOC_001794,Kane,Utah
+LOC_001795,Wayne,Utah
+LOC_001796,Alleghany,Virginia
+LOC_001797,Amherst,Virginia
+LOC_001798,Appomattox,Virginia
+LOC_001799,Botetourt,Virginia
+LOC_001800,Buckingham,Virginia
+LOC_001801,Cumberland,Virginia
+LOC_001802,Dickenson,Virginia
+LOC_001803,Gloucester,Virginia
+LOC_001804,King and Queen,Virginia
+LOC_001805,King William,Virginia
+LOC_001806,Lee,Virginia
+LOC_001807,Lunenburg,Virginia
+LOC_001808,Mecklenburg,Virginia
+LOC_001809,Nelson,Virginia
+LOC_001810,Manassas Park,Virginia
+LOC_001811,Washington,Virginia
+LOC_001812,Martinsville,Virginia
+LOC_001813,Lexington,Virginia
+LOC_001814,Winchester,Virginia
+LOC_001815,Rutland,Vermont
+LOC_001816,Windham,Vermont
+LOC_001817,Windsor,Vermont
+LOC_001818,Grand Isle,Vermont
+LOC_001819,Ferry,Washington
+LOC_001820,Klickitat,Washington
+LOC_001821,Bayfield,Wisconsin
+LOC_001822,Chippewa,Wisconsin
+LOC_001823,Columbia,Wisconsin
+LOC_001824,Forest,Wisconsin
+LOC_001825,Juneau,Wisconsin
+LOC_001826,La Crosse,Wisconsin
+LOC_001827,Lincoln,Wisconsin
+LOC_001828,Marinette,Wisconsin
+LOC_001829,Menominee,Wisconsin
+LOC_001830,Monroe,Wisconsin
+LOC_001831,Oconto,Wisconsin
+LOC_001832,Sawyer,Wisconsin
+LOC_001833,Shawano,Wisconsin
+LOC_001834,Walworth,Wisconsin
+LOC_001835,Waupaca,Wisconsin
+LOC_001836,Waushara,Wisconsin
+LOC_001837,Wood,Wisconsin
+LOC_001838,Brooke,West Virginia
+LOC_001839,Fayette,West Virginia
+LOC_001840,Jackson,West Virginia
+LOC_001841,Randolph,West Virginia
+LOC_001842,Lincoln,West Virginia
+LOC_001843,Wayne,West Virginia
+LOC_001844,Pocahontas,West Virginia
+LOC_001845,Big Horn,Wyoming
+LOC_001846,Campbell,Wyoming
+LOC_001847,Carbon,Wyoming
+LOC_001848,Lincoln,Wyoming
+LOC_001849,Uinta,Wyoming
+LOC_001850,Washakie,Wyoming
+LOC_001851,Kodiak Island,Alaska
+LOC_001852,Sitka,Alaska
+LOC_001853,Cherokee,Alabama
+LOC_001854,Crenshaw,Alabama
+LOC_001855,Fayette,Alabama
+LOC_001856,Henry,Alabama
+LOC_001857,Marengo,Alabama
+LOC_001858,Washington,Alabama
+LOC_001859,Cleveland,Arkansas
+LOC_001860,Fulton,Arkansas
+LOC_001861,Greene,Arkansas
+LOC_001862,Lawrence,Arkansas
+LOC_001863,Little River,Arkansas
+LOC_001864,Logan,Arkansas
+LOC_001865,Newton,Arkansas
+LOC_001866,Scott,Arkansas
+LOC_001867,Yell,Arkansas
+LOC_001868,Cheyenne,Colorado
+LOC_001869,Eagle,Colorado
+LOC_001870,Hinsdale,Colorado
+LOC_001871,Rio Grande,Colorado
+LOC_001872,Saguache,Colorado
+LOC_001873,Atkinson,Georgia
+LOC_001874,Bleckley,Georgia
+LOC_001875,Bryan,Georgia
+LOC_001876,Dawson,Georgia
+LOC_001877,Decatur,Georgia
+LOC_001878,Echols,Georgia
+LOC_001879,Emanuel,Georgia
+LOC_001880,Haralson,Georgia
+LOC_001881,Harris,Georgia
+LOC_001882,Jackson,Georgia
+LOC_001883,Jenkins,Georgia
+LOC_001884,Lamar,Georgia
+LOC_001885,Long,Georgia
+LOC_001886,Macon,Georgia
+LOC_001887,Meriwether,Georgia
+LOC_001888,Putnam,Georgia
+LOC_001889,Schley,Georgia
+LOC_001890,Twiggs,Georgia
+LOC_001891,Walker,Georgia
+LOC_001892,Washington,Georgia
+LOC_001893,White,Georgia
+LOC_001894,Maui,Hawaii
+LOC_001895,Appanoose,Iowa
+LOC_001896,Buchanan,Iowa
+LOC_001897,Crawford,Iowa
+LOC_001898,Dickinson,Iowa
+LOC_001899,Humboldt,Iowa
+LOC_001900,Johnson,Iowa
+LOC_001901,Marion,Iowa
+LOC_001902,Marshall,Iowa
+LOC_001903,Ringgold,Iowa
+LOC_001904,Webster,Iowa
+LOC_001905,Jerome,Idaho
+LOC_001906,Brown,Indiana
+LOC_001907,Jay,Indiana
+LOC_001908,Marshall,Indiana
+LOC_001909,Newton,Indiana
+LOC_001910,Rush,Indiana
+LOC_001911,Spencer,Indiana
+LOC_001912,Sullivan,Indiana
+LOC_001913,Ellsworth,Kansas
+LOC_001914,Grant,Kansas
+LOC_001915,Harvey,Kansas
+LOC_001916,Linn,Kansas
+LOC_001917,Mitchell,Kansas
+LOC_001918,Osborne,Kansas
+LOC_001919,Pratt,Kansas
+LOC_001920,Sumner,Kansas
+LOC_001921,Allen,Kentucky
+LOC_001922,Calloway,Kentucky
+LOC_001923,Harrison,Kentucky
+LOC_001924,Henry,Kentucky
+LOC_001925,Ohio,Kentucky
+LOC_001926,Taylor,Kentucky
+LOC_001927,Avoyelles,Louisiana
+LOC_001928,Caldwell,Louisiana
+LOC_001929,Iberia,Louisiana
+LOC_001930,Jackson,Louisiana
+LOC_001931,La Salle,Louisiana
+LOC_001932,St. Helena,Louisiana
+LOC_001933,West Carroll,Louisiana
+LOC_001934,Dukes,Massachusetts
+LOC_001935,Caroline,Maryland
+LOC_001936,Kent,Maryland
+LOC_001937,Queen Anne's,Maryland
+LOC_001938,Talbot,Maryland
+LOC_001939,Franklin,Maine
+LOC_001940,Knox,Maine
+LOC_001941,Washington,Maine
+LOC_001942,Cheboygan,Michigan
+LOC_001943,Dickinson,Michigan
+LOC_001944,Iosco,Michigan
+LOC_001945,Kalkaska,Michigan
+LOC_001946,Missaukee,Michigan
+LOC_001947,Montmorency,Michigan
+LOC_001948,Oceana,Michigan
+LOC_001949,Oscoda,Michigan
+LOC_001950,Sanilac,Michigan
+LOC_001951,Schoolcraft,Michigan
+LOC_001952,Tuscola,Michigan
+LOC_001953,Dodge,Minnesota
+LOC_001954,Goodhue,Minnesota
+LOC_001955,Hubbard,Minnesota
+LOC_001956,Lake,Minnesota
+LOC_001957,McLeod,Minnesota
+LOC_001958,Morrison,Minnesota
+LOC_001959,Nobles,Minnesota
+LOC_001960,Steele,Minnesota
+LOC_001961,Bates,Missouri
+LOC_001962,Hickory,Missouri
+LOC_001963,Lafayette,Missouri
+LOC_001964,Marion,Missouri
+LOC_001965,St. Clair,Missouri
+LOC_001966,Scotland,Missouri
+LOC_001967,Wright,Missouri
+LOC_001968,Choctaw,Mississippi
+LOC_001969,Greene,Mississippi
+LOC_001970,Oktibbeha,Mississippi
+LOC_001971,Tallahatchie,Mississippi
+LOC_001972,Tishomingo,Mississippi
+LOC_001973,Wayne,Mississippi
+LOC_001974,Broadwater,Montana
+LOC_001975,Carbon,Montana
+LOC_001976,Custer,Montana
+LOC_001977,Dawson,Montana
+LOC_001978,Madison,Montana
+LOC_001979,Park,Montana
+LOC_001980,Sanders,Montana
+LOC_001981,Box Butte,Nebraska
+LOC_001982,Buffalo,Nebraska
+LOC_001983,Cass,Nebraska
+LOC_001984,Dawes,Nebraska
+LOC_001985,Keith,Nebraska
+LOC_001986,Lincoln,Nebraska
+LOC_001987,Otoe,Nebraska
+LOC_001988,Pamlico,North Carolina
+LOC_001989,Watauga,North Carolina
+LOC_001990,Roosevelt,New Mexico
+LOC_001991,Lincoln,Nevada
+LOC_001992,Cortland,New York
+LOC_001993,Suffolk,North Carolina
+LOC_001994,Ashtabula,Ohio
+LOC_001995,Geauga,Ohio
+LOC_001996,Holmes,Ohio
+LOC_001997,Jackson,Ohio
+LOC_001998,Madison,Ohio
+LOC_001999,Mercer,Ohio
+LOC_002000,Morgan,Ohio
+LOC_002001,Van Wert,Ohio
+LOC_002002,Washington,Ohio
+LOC_002003,Wood,Ohio
+LOC_002004,Beckham,Oklahoma
+LOC_002005,Blaine,Oklahoma
+LOC_002006,Johnston,Oklahoma
+LOC_002007,Latimer,Oklahoma
+LOC_002008,Pawnee,Oklahoma
+LOC_002009,Stephens,Oklahoma
+LOC_002010,Woods,Oklahoma
+LOC_002011,Grant,Oregon
+LOC_002012,Union,Oregon
+LOC_002013,Wasco,Oregon
+LOC_002014,Bedford,Pennsylvania
+LOC_002015,Elk,Pennsylvania
+LOC_002016,Snyder,Pennsylvania
+LOC_002017,Susquehanna,Pennsylvania
+LOC_002018,Tioga,Pennsylvania
+LOC_002019,Union,Pennsylvania
+LOC_002020,Warren,Pennsylvania
+LOC_002021,Bristol,Rhodes Island
+LOC_002022,Washington,Rhodes Island
+LOC_002023,McCormick,South Carolina
+LOC_002024,Charles Mix,South Dakota
+LOC_002025,Deuel,South Dakota
+LOC_002026,Faulk,South Dakota
+LOC_002027,Lawrence,South Dakota
+LOC_002028,Turner,South Dakota
+LOC_002029,Clay,Tennessee
+LOC_002030,Fayette,Tennessee
+LOC_002031,Giles,Tennessee
+LOC_002032,Lewis,Tennessee
+LOC_002033,Moore,Tennessee
+LOC_002034,Morgan,Tennessee
+LOC_002035,Union,Tennessee
+LOC_002036,Archer,Texas
+LOC_002037,Austin,Texas
+LOC_002038,Baylor,Texas
+LOC_002039,Bosque,Texas
+LOC_002040,Brewster,Texas
+LOC_002041,Brown,Texas
+LOC_002042,Calhoun,Texas
+LOC_002043,Castro,Texas
+LOC_002044,Cottle,Texas
+LOC_002045,Crane,Texas
+LOC_002046,Crockett,Texas
+LOC_002047,Crosby,Texas
+LOC_002048,Deaf Smith,Texas
+LOC_002049,Duval,Texas
+LOC_002050,Eastland,Texas
+LOC_002051,Fannin,Texas
+LOC_002052,Floyd,Texas
+LOC_002053,Glasscock,Texas
+LOC_002054,Hall,Texas
+LOC_002055,Lamb,Texas
+LOC_002056,Marion,Texas
+LOC_002057,Martin,Texas
+LOC_002058,Morris,Texas
+LOC_002059,Rains,Texas
+LOC_002060,Real,Texas
+LOC_002061,Reeves,Texas
+LOC_002062,Rockwall,Texas
+LOC_002063,Swisher,Texas
+LOC_002064,Young,Texas
+LOC_002065,Charles City,Virginia
+LOC_002066,Clarke,Virginia
+LOC_002067,Craig,Virginia
+LOC_002068,Floyd,Virginia
+LOC_002069,Fluvanna,Virginia
+LOC_002070,Grayson,Virginia
+LOC_002071,Madison,Virginia
+LOC_002072,New Kent,Virginia
+LOC_002073,Powhatan,Virginia
+LOC_002074,Prince Edward,Virginia
+LOC_002075,Salem,Virginia
+LOC_002076,Shenandoah,Virginia
+LOC_002077,Surry,Virginia
+LOC_002078,Covington,Virginia
+LOC_002079,Staunton,Virginia
+LOC_002080,Waynesboro,Virginia
+LOC_002081,Lamoille,Vermont
+LOC_002082,Asotin,Washington
+LOC_002083,San Juan,Washington
+LOC_002084,Burnett,Wisconsin
+LOC_002085,Calumet,Wisconsin
+LOC_002086,Florence,Wisconsin
+LOC_002087,Grant,Wisconsin
+LOC_002088,Jackson,Wisconsin
+LOC_002089,Jefferson,Wisconsin
+LOC_002090,Price,Wisconsin
+LOC_002091,Taylor,Wisconsin
+LOC_002092,Vernon,Wisconsin
+LOC_002093,Vilas,Wisconsin
+LOC_002094,Hampshire,West Virginia
+LOC_002095,McDowell,West Virginia
+LOC_002096,Wyoming,West Virginia
+LOC_002097,Wirt,West Virginia
+LOC_002098,Marshall,West Virginia
+LOC_002099,Mason,West Virginia
+LOC_002100,Roane,West Virginia
+LOC_002101,Nicholas,West Virginia
+LOC_002102,Braxton,West Virginia
+LOC_002103,Crook,Wyoming
+LOC_002104,Fremont,Wyoming
+LOC_002105,Teton,Wyoming
+LOC_002106,Bibb,Alabama
+LOC_002107,Bullock,Alabama
+LOC_002108,Carroll,Arkansas
+LOC_002109,Columbia,Arkansas
+LOC_002110,Conway,Arkansas
+LOC_002111,Cross,Arkansas
+LOC_002112,Johnson,Arkansas
+LOC_002113,Montgomery,Arkansas
+LOC_002114,Prairie,Arkansas
+LOC_002115,Randolph,Arkansas
+LOC_002116,Stone,Arkansas
+LOC_002117,Santa Cruz,Arizona
+LOC_002118,Inyo,California
+LOC_002119,Archuleta,Colorado
+LOC_002120,Rio Blanco,Colorado
+LOC_002121,Summit,Colorado
+LOC_002122,Broomfield,Colorado
+LOC_002123,Gulf,Florida
+LOC_002124,Levy,Florida
+LOC_002125,Butts,Georgia
+LOC_002126,Calhoun,Georgia
+LOC_002127,Jasper,Georgia
+LOC_002128,Murray,Georgia
+LOC_002129,Pickens,Georgia
+LOC_002130,Pulaski,Georgia
+LOC_002131,Wayne,Georgia
+LOC_002132,Henry,Iowa
+LOC_002133,Iowa,Iowa
+LOC_002134,Keokuk,Iowa
+LOC_002135,Lee,Iowa
+LOC_002136,Madison,Iowa
+LOC_002137,Washington,Iowa
+LOC_002138,Adams,Indiana
+LOC_002139,Gibson,Indiana
+LOC_002140,Montgomery,Indiana
+LOC_002141,Parke,Indiana
+LOC_002142,Randolph,Indiana
+LOC_002143,Ripley,Indiana
+LOC_002144,Starke,Indiana
+LOC_002145,Steuben,Indiana
+LOC_002146,Wells,Indiana
+LOC_002147,Bourbon,Kansas
+LOC_002148,Cloud,Kansas
+LOC_002149,Jefferson,Kansas
+LOC_002150,Neosho,Kansas
+LOC_002151,Wabaunsee,Kansas
+LOC_002152,Harlan,Kentucky
+LOC_002153,Hopkins,Kentucky
+LOC_002154,Lincoln,Kentucky
+LOC_002155,McCreary,Kentucky
+LOC_002156,Marion,Kentucky
+LOC_002157,Shelby,Kentucky
+LOC_002158,Whitley,Kentucky
+LOC_002159,Grant,Kentucky
+LOC_002160,Rowan,Kentucky
+LOC_002161,Pike,Kentucky
+LOC_002162,Perry,Kentucky
+LOC_002163,Adair,Kentucky
+LOC_002164,Grant,Louisiana
+LOC_002165,Natchitoches,Louisiana
+LOC_002166,Winn,Louisiana
+LOC_002167,Hampshire,Massachusetts
+LOC_002168,Nantucket,Massachusetts
+LOC_002169,Baraga,Michigan
+LOC_002170,Eaton,Michigan
+LOC_002171,Gladwin,Michigan
+LOC_002172,Houghton,Michigan
+LOC_002173,Iron,Michigan
+LOC_002174,Leelanau,Michigan
+LOC_002175,Midland,Michigan
+LOC_002176,Ontonagon,Michigan
+LOC_002177,Beltrami,Minnesota
+LOC_002178,Clay,Minnesota
+LOC_002179,Freeborn,Minnesota
+LOC_002180,Kanabec,Minnesota
+LOC_002181,Nicollet,Minnesota
+LOC_002182,Traverse,Minnesota
+LOC_002183,Audrain,Missouri
+LOC_002184,Benton,Missouri
+LOC_002185,Carter,Missouri
+LOC_002186,Gasconade,Missouri
+LOC_002187,Lewis,Missouri
+LOC_002188,Madison,Missouri
+LOC_002189,Osage,Missouri
+LOC_002190,Ray,Missouri
+LOC_002191,Vernon,Missouri
+LOC_002192,Webster,Missouri
+LOC_002193,Humphreys,Mississippi
+LOC_002194,Kemper,Mississippi
+LOC_002195,Pontotoc,Mississippi
+LOC_002196,Scott,Mississippi
+LOC_002197,Yazoo,Mississippi
+LOC_002198,Musselshell,Montana
+LOC_002199,Rosebud,Montana
+LOC_002200,Stillwater,Montana
+LOC_002201,Valley,Montana
+LOC_002202,Saunders,Nebraska
+LOC_002203,Avery,North Carolina
+LOC_002204,Madison,North Carolina
+LOC_002205,Mitchell,North Carolina
+LOC_002206,Yancey,North Carolina
+LOC_002207,McHenry,North Dakota
+LOC_002208,Pembina,North Dakota
+LOC_002209,Stark,North Dakota
+LOC_002210,Storey,Nevada
+LOC_002211,Cayuga,New York
+LOC_002212,Lewis,New York
+LOC_002213,Yates,New York
+LOC_002214,Guernsey,Ohio
+LOC_002215,Lawrence,Ohio
+LOC_002216,Logan,Ohio
+LOC_002217,Meigs,Ohio
+LOC_002218,Shelby,Ohio
+LOC_002219,Atoka,Oklahoma
+LOC_002220,Tillman,Oklahoma
+LOC_002221,Washington,Oklahoma
+LOC_002222,Coos,Oregon
+LOC_002223,Morrow,Oregon
+LOC_002224,Tillamook,Oregon
+LOC_002225,Juniata,Pennsylvania
+LOC_002226,Calhoun,South Carolina
+LOC_002227,Brown,South Dakota
+LOC_002228,Hanson,South Dakota
+LOC_002229,Sully,South Dakota
+LOC_002230,Walworth,South Dakota
+LOC_002231,Crockett,Tennessee
+LOC_002232,Jackson,Tennessee
+LOC_002233,Meigs,Tennessee
+LOC_002234,Andrews,Texas
+LOC_002235,Carson,Texas
+LOC_002236,Cochran,Texas
+LOC_002237,Dallam,Texas
+LOC_002238,Edwards,Texas
+LOC_002239,Fisher,Texas
+LOC_002240,Grimes,Texas
+LOC_002241,Hamilton,Texas
+LOC_002242,Hardeman,Texas
+LOC_002243,Hartley,Texas
+LOC_002244,Hockley,Texas
+LOC_002245,Jackson,Texas
+LOC_002246,Llano,Texas
+LOC_002247,Mitchell,Texas
+LOC_002248,Moore,Texas
+LOC_002249,Ochiltree,Texas
+LOC_002250,Randall,Texas
+LOC_002251,San Saba,Texas
+LOC_002252,Terry,Texas
+LOC_002253,Yoakum,Texas
+LOC_002254,Zavala,Texas
+LOC_002255,Bath,Virginia
+LOC_002256,Bland,Virginia
+LOC_002257,King George,Virginia
+LOC_002258,Mathews,Virginia
+LOC_002259,Prince George,Virginia
+LOC_002260,Jefferson,Washington
+LOC_002261,Skamania,Washington
+LOC_002262,Clark,Wisconsin
+LOC_002263,Dunn,Wisconsin
+LOC_002264,Marquette,Wisconsin
+LOC_002265,Upshur,West Virginia
+LOC_002266,Calhoun,West Virginia
+LOC_002267,Grant,West Virginia
+LOC_002268,Webster,West Virginia
+LOC_002269,Doddridge,West Virginia
+LOC_002270,Converse,Wyoming
+LOC_002271,Johnson,Wyoming
+LOC_002272,Sheridan,Wyoming
+LOC_002273,Barbour,Alabama
+LOC_002274,Marion,Alabama
+LOC_002275,Ashley,Arkansas
+LOC_002276,Desha,Arkansas
+LOC_002277,Grant,Arkansas
+LOC_002278,Hot Spring,Arkansas
+LOC_002279,Izard,Arkansas
+LOC_002280,Lake,Colorado
+LOC_002281,Logan,Colorado
+LOC_002282,Clinch,Georgia
+LOC_002283,Crawford,Georgia
+LOC_002284,Dade,Georgia
+LOC_002285,Greene,Georgia
+LOC_002286,Morgan,Georgia
+LOC_002287,Treutlen,Georgia
+LOC_002288,Adams,Iowa
+LOC_002289,Davis,Iowa
+LOC_002290,Decatur,Iowa
+LOC_002291,Kossuth,Iowa
+LOC_002292,Lucas,Iowa
+LOC_002293,Lyon,Iowa
+LOC_002294,Wapello,Iowa
+LOC_002295,Wright,Iowa
+LOC_002296,Fulton,Indiana
+LOC_002297,Harrison,Indiana
+LOC_002298,Huntington,Indiana
+LOC_002299,Putnam,Indiana
+LOC_002300,Comanche,Kansas
+LOC_002301,Hamilton,Kansas
+LOC_002302,Scott,Kansas
+LOC_002303,Wichita,Kansas
+LOC_002304,Wilson,Kansas
+LOC_002305,Bell,Kentucky
+LOC_002306,Boyle,Kentucky
+LOC_002307,Breckinridge,Kentucky
+LOC_002308,Johnson,Kentucky
+LOC_002309,Union,Kentucky
+LOC_002310,Allen,Louisiana
+LOC_002311,Claiborne,Louisiana
+LOC_002312,Tensas,Louisiana
+LOC_002313,Emmet,Michigan
+LOC_002314,Presque Isle,Michigan
+LOC_002315,Jackson,Minnesota
+LOC_002316,Le Sueur,Minnesota
+LOC_002317,Watonwan,Minnesota
+LOC_002318,Caldwell,Missouri
+LOC_002319,Carroll,Missouri
+LOC_002320,Cedar,Missouri
+LOC_002321,Morgan,Missouri
+LOC_002322,Prentiss,Mississippi
+LOC_002323,Walthall,Mississippi
+LOC_002324,Meagher,Montana
+LOC_002325,Burt,Nebraska
+LOC_002326,Cherry,Nebraska
+LOC_002327,Custer,Nebraska
+LOC_002328,Kearney,Nebraska
+LOC_002329,Kimball,Nebraska
+LOC_002330,Griggs,North Dakota
+LOC_002331,McIntosh,North Dakota
+LOC_002332,Richland,North Dakota
+LOC_002333,Highland,Ohio
+LOC_002334,Medina,Ohio
+LOC_002335,Ottawa,Ohio
+LOC_002336,Newport,Rhodes Island
+LOC_002337,Hamlin,South Dakota
+LOC_002338,Stewart,Tennessee
+LOC_002339,Kimble,Texas
+LOC_002340,Kinney,Texas
+LOC_002341,Menard,Texas
+LOC_002342,Grand,Utah
+LOC_002343,Sevier,Utah
+LOC_002344,Rockbridge,Virginia
+LOC_002345,Repressed,Virginia
+LOC_002346,Adams,Wisconsin
+LOC_002347,Washburn,Wisconsin
+LOC_002348,Nome,Alaska
+LOC_002349,Northwest Arctic,Alaska
+LOC_002350,Matanuska-Susitna,Alaska
+LOC_002351,Kit Carson,Colorado
+LOC_002352,Lincoln,Colorado
+LOC_002353,Bacon,Georgia
+LOC_002354,Chattahoochee,Georgia
+LOC_002355,Clay,Georgia
+LOC_002356,Union,Georgia
+LOC_002357,Clay,Iowa
+LOC_002358,Hardin,Iowa
+LOC_002359,Mahaska,Iowa
+LOC_002360,Monroe,Iowa
+LOC_002361,Page,Iowa
+LOC_002362,Boundary,Idaho
+LOC_002363,Valley,Idaho
+LOC_002364,Clinton,Indiana
+LOC_002365,Miami,Indiana
+LOC_002366,Tipton,Indiana
+LOC_002367,Crawford,Indiana
+LOC_002368,Decatur,Kansas
+LOC_002369,Kingman,Kansas
+LOC_002370,Labette,Kansas
+LOC_002371,Marshall,Kansas
+LOC_002372,Trego,Kansas
+LOC_002373,Floyd,Kentucky
+LOC_002374,Knox,Kentucky
+LOC_002375,Lewis,Kentucky
+LOC_002376,Nicholas,Kentucky
+LOC_002377,Rockcastle,Kentucky
+LOC_002378,Wayne,Kentucky
+LOC_002379,Woodford,Kentucky
+LOC_002380,Crawford,Michigan
+LOC_002381,Mecosta,Michigan
+LOC_002382,Cass,Minnesota
+LOC_002383,Martin,Minnesota
+LOC_002384,Rice,Minnesota
+LOC_002385,Harrison,Missouri
+LOC_002386,Mercer,Missouri
+LOC_002387,Moniteau,Missouri
+LOC_002388,Reynolds,Missouri
+LOC_002389,Amite,Mississippi
+LOC_002390,Franklin,Mississippi
+LOC_002391,Itawamba,Mississippi
+LOC_002392,Leake,Mississippi
+LOC_002393,Big Horn,Montana
+LOC_002394,Glacier,Montana
+LOC_002395,Brown,Nebraska
+LOC_002396,Platte,Nebraska
+LOC_002397,Red Willow,Nebraska
+LOC_002398,York,Nebraska
+LOC_002399,Repressed,Nebraska
+LOC_002400,Sioux,Nebraska
+LOC_002401,Clay,North Carolina
+LOC_002402,Tyrrell,North Carolina
+LOC_002403,Stutsman,North Dakota
+LOC_002404,Cheshire,New Hampshire
+LOC_002405,Hidalgo,New Mexico
+LOC_002406,Seneca,New York
+LOC_002407,Hocking,Ohio
+LOC_002408,Vinton,Ohio
+LOC_002409,Ellis,Oklahoma
+LOC_002410,Kiowa,Oklahoma
+LOC_002411,Murray,Oklahoma
+LOC_002412,Montour,Pennsylvania
+LOC_002413,Brookings,South Dakota
+LOC_002414,Collingsworth,Texas
+LOC_002415,La Salle,Texas
+LOC_002416,Lynn,Texas
+LOC_002417,Throckmorton,Texas
+LOC_002418,Carbon,Utah
+LOC_002419,Essex,Virginia
+LOC_002420,Greene,Virginia
+LOC_002421,Colonial Heights,Virginia
+LOC_002422,Island,Washington
+LOC_002423,Kittitas,Washington
+LOC_002424,Ashland,Wisconsin
+LOC_002425,Pierce,Wisconsin
+LOC_002426,Morgan,West Virginia
+LOC_002427,Clay,West Virginia
+LOC_002428,Pendleton,West Virginia
+LOC_002429,Platte,Wyoming
+LOC_002430,Weston,Wyoming
+LOC_002431,Liberty,Florida
+LOC_002432,Bristol Bay,Alaska
+LOC_002433,Marion,Arkansas
+LOC_002434,Van Buren,Arkansas
+LOC_002435,Conejos,Colorado
+LOC_002436,Gunnison,Colorado
+LOC_002437,Huerfano,Colorado
+LOC_002438,Lanier,Georgia
+LOC_002439,Lincoln,Georgia
+LOC_002440,Turner,Georgia
+LOC_002441,Wheeler,Georgia
+LOC_002442,Cherokee,Iowa
+LOC_002443,Dallas,Iowa
+LOC_002444,Mills,Iowa
+LOC_002445,Sac,Iowa
+LOC_002446,Worth,Iowa
+LOC_002447,Gem,Idaho
+LOC_002448,Jefferson,Idaho
+LOC_002449,Oneida,Idaho
+LOC_002450,Brown,Kansas
+LOC_002451,Cheyenne,Kansas
+LOC_002452,Greenwood,Kansas
+LOC_002453,Jackson,Kansas
+LOC_002454,Thomas,Kansas
+LOC_002455,Lawrence,Kentucky
+LOC_002456,Magoffin,Kentucky
+LOC_002457,Clearwater,Minnesota
+LOC_002458,Pope,Minnesota
+LOC_002459,Yellow Medicine,Minnesota
+LOC_002460,Chariton,Missouri
+LOC_002461,Wayne,Missouri
+LOC_002462,Neshoba,Mississippi
+LOC_002463,Webster,Nebraska
+LOC_002464,Bottineau,North Dakota
+LOC_002465,Bowman,North Dakota
+LOC_002466,Coos,New Hampshire
+LOC_002467,Tioga,New York
+LOC_002468,Perry,Ohio
+LOC_002469,Putnam,Ohio
+LOC_002470,Wyandot,Ohio
+LOC_002471,Cimarron,Oklahoma
+LOC_002472,Grant,Oklahoma
+LOC_002473,Sherman,Oregon
+LOC_002474,Forest,Pennsylvania
+LOC_002475,Hancock,Tennessee
+LOC_002476,Concho,Texas
+LOC_002477,Goliad,Texas
+LOC_002478,Hansford,Texas
+LOC_002479,Refugio,Texas
+LOC_002480,Shackelford,Texas
+LOC_002481,Summit,Utah
+LOC_002482,Buena Vista,Virginia
+LOC_002483,Falls Church,Virginia
+LOC_002484,Green Lake,Wisconsin
+LOC_002485,Tyler,West Virginia
+LOC_002486,Park,Wyoming
+LOC_002487,Calhoun,Arkansas
+LOC_002488,Searcy,Arkansas
+LOC_002489,Greenlee,Arizona
+LOC_002490,Yuma,Colorado
+LOC_002491,Elbert,Georgia
+LOC_002492,Wilkes,Georgia
+LOC_002493,Delaware,Iowa
+LOC_002494,Jefferson,Iowa
+LOC_002495,Madison,Idaho
+LOC_002496,Owyhee,Idaho
+LOC_002497,Dearborn,Indiana
+LOC_002498,Lagrange,Indiana
+LOC_002499,Jasper,Indiana
+LOC_002500,Gove,Kansas
+LOC_002501,Lane,Kansas
+LOC_002502,Rooks,Kansas
+LOC_002503,Morgan,Kentucky
+LOC_002504,Catahoula,Louisiana
+LOC_002505,Pennington,Minnesota
+LOC_002506,Roseau,Minnesota
+LOC_002507,Iron,Missouri
+LOC_002508,Linn,Missouri
+LOC_002509,Copiah,Mississippi
+LOC_002510,Jefferson Davis,Mississippi
+LOC_002511,McCone,Montana
+LOC_002512,Powell,Montana
+LOC_002513,Ravalli,Montana
+LOC_002514,Teton,Montana
+LOC_002515,Antelope,Nebraska
+LOC_002516,Cheyenne,Nebraska
+LOC_002517,Franklin,Nebraska
+LOC_002518,McKenzie,North Dakota
+LOC_002519,Mercer,North Dakota
+LOC_002520,Mountrail,North Dakota
+LOC_002521,Ransom,North Dakota
+LOC_002522,Sullivan,New Hampshire
+LOC_002523,Schuyler,New York
+LOC_002524,Essex,New York
+LOC_002525,Champaign,Ohio
+LOC_002526,Knox,Ohio
+LOC_002527,Morrow,Ohio
+LOC_002528,Harney,Oregon
+LOC_002529,Wallowa,Oregon
+LOC_002530,Lake,South Dakota
+LOC_002531,Jim Hogg,Texas
+LOC_002532,Juab,Utah
+LOC_002533,Northumberland,Virginia
+LOC_002534,Columbia,Washington
+LOC_002535,Door,Wisconsin
+LOC_002536,Kewaunee,Wisconsin
+LOC_002537,Niobrara,Wyoming
+LOC_002538,La Paz,Arizona
+LOC_002539,Clear Creek,Colorado
+LOC_002540,Gilpin,Colorado
+LOC_002541,Pitkin,Colorado
+LOC_002542,San Juan,Colorado
+LOC_002543,Poweshiek,Iowa
+LOC_002544,Union,Iowa
+LOC_002545,Shelby,Indiana
+LOC_002546,Martin,Indiana
+LOC_002547,Ohio,Indiana
+LOC_002548,Haskell,Kansas
+LOC_002549,Leslie,Kentucky
+LOC_002550,Mackinac,Michigan
+LOC_002551,Ogemaw,Michigan
+LOC_002552,Benton,Minnesota
+LOC_002553,Brown,Minnesota
+LOC_002554,Mahnomen,Minnesota
+LOC_002555,Dade,Missouri
+LOC_002556,Maries,Missouri
+LOC_002557,Knox,Nebraska
+LOC_002558,Garfield,Nebraska
+LOC_002559,Alleghany,North Carolina
+LOC_002560,Ashe,North Carolina
+LOC_002561,Steele,North Dakota
+LOC_002562,Monroe,Ohio
+LOC_002563,Davison,South Dakota
+LOC_002564,Pickett,Tennessee
+LOC_002565,Callahan,Texas
+LOC_002566,Garza,Texas
+LOC_002567,Hudspeth,Texas
+LOC_002568,Winkler,Texas
+LOC_002569,Sanpete,Utah
+LOC_002570,Patrick,Virginia
+LOC_002571,Rusk,Wisconsin
+LOC_002572,Taylor,West Virginia

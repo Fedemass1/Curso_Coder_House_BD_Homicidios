@@ -1,0 +1,33 @@
+ID_Crime,Crime_Type,Weapon
+CRI_0001,Murder or Manslaughter,Firearm
+CRI_0002,Murder or Manslaughter,Handgun
+CRI_0003,Murder or Manslaughter,Blunt Object
+CRI_0004,Manslaughter by Negligence,Handgun
+CRI_0005,Murder or Manslaughter,Knife
+CRI_0006,Murder or Manslaughter,Shotgun
+CRI_0007,Murder or Manslaughter,Rifle
+CRI_0008,Murder or Manslaughter,Unknown
+CRI_0009,Murder or Manslaughter,Suffocation
+CRI_0010,Manslaughter by Negligence,Unknown
+CRI_0011,Manslaughter by Negligence,Shotgun
+CRI_0012,Murder or Manslaughter,Gun
+CRI_0013,Murder or Manslaughter,Fire
+CRI_0014,Murder or Manslaughter,Strangulation
+CRI_0015,Murder or Manslaughter,Drugs
+CRI_0016,Manslaughter by Negligence,Blunt Object
+CRI_0017,Manslaughter by Negligence,Drugs
+CRI_0018,Manslaughter by Negligence,Rifle
+CRI_0019,Manslaughter by Negligence,Drowning
+CRI_0020,Manslaughter by Negligence,Strangulation
+CRI_0021,Murder or Manslaughter,Poison
+CRI_0022,Murder or Manslaughter,Drowning
+CRI_0023,Manslaughter by Negligence,Suffocation
+CRI_0024,Manslaughter by Negligence,Firearm
+CRI_0025,Manslaughter by Negligence,Knife
+CRI_0026,Murder or Manslaughter,Fall
+CRI_0027,Murder or Manslaughter,Explosives
+CRI_0028,Manslaughter by Negligence,Fire
+CRI_0029,Manslaughter by Negligence,Fall
+CRI_0030,Manslaughter by Negligence,Gun
+CRI_0031,Manslaughter by Negligence,Poison
+CRI_0032,Manslaughter by Negligence,Explosives
