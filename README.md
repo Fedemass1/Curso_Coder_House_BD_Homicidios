@@ -39,12 +39,12 @@ la misma en el tiempo.
 8) Abrir "08 TCL.sql". Se podrán ver operaciones de ejemplo. Estás pueden ser adaptadas a las necesidades de cada 
    entre para la operación con datos.
 
-9)Backup datos. Ante cualquier pérdida de información de la base original, se podrá recurrir a la restauración de 
-  esta mediante los archivos de backup que se adjuntan. Uno de ellos respalda la estructura de las tablas y el otro 
-  la información. Tener presente que si se restauran estos backups, cualquier nueva información que se halla agregado 
-  se perderá, proceder con precaución y realizar nuevos backups de forma regular para evitar cualquier pérdida de información.
+9) Backup datos. Ante cualquier pérdida de información de la base original, se podrá recurrir a la restauración de 
+   esta mediante los archivos de backup que se adjuntan. Uno de ellos respalda la estructura de las tablas y el otro 
+   la información. Tener presente que si se restauran estos backups, cualquier nueva información que se halla agregado 
+   se perderá, proceder con precaución y realizar nuevos backups de forma regular para evitar cualquier pérdida de información.
   
-  El backup "Backup_estructura" incluye el esquema homicidios, mientras que el de los datos "Backup_datos" no. Se recomienda
-  restaurar este último sobre el esquema homicidios. Tener la precaución de seleccionar a este en el caso de querer restaurar
-  la información original. En cuanto al primero, que incluya el esquema, significa que ya por defecto la estructura se creará 
-  sobre el esquema de nombre 'homicidios' sin necesidad de crearlo manualmente.
+   El backup "Backup_estructura" incluye el esquema homicidios, mientras que el de los datos "Backup_datos" no. Se recomienda
+   restaurar este último sobre el esquema homicidios. Tener la precaución de seleccionar a este en el caso de querer restaurar
+   la información original. En cuanto al primero, que incluya el esquema, significa que ya por defecto la estructura se creará 
+   sobre el esquema de nombre 'homicidios' sin necesidad de crearlo manualmente.
